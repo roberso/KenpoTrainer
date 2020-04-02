@@ -1,0 +1,1471 @@
+[{
+	"id": "yellow",
+	"description": "Yellow Belt",
+	"facing": "LL - left to left; your left leg is forward facing your opponent, who is also left leg forward.",
+	"tech": [{
+		"id": "B1a",
+		"description": "B1a",
+		"pronounce": "B 1 A",
+		"steps": ["B",
+		"1",
+		"a"]
+	},
+	{
+		"id": "B1b",
+		"description": "B1b",
+		"pronounce": "B 1 B",
+		"steps": ["B",
+		"1",
+		"b"]
+	},
+	{
+		"id": "B2a",
+		"description": "B2a",
+		"pronounce": "B 2 A",
+		"steps": ["B",
+		"2",
+		"a"]
+	},
+	{
+		"id": "B2b",
+		"description": "B2b",
+		"pronounce": "B 2 B",
+		"steps": ["B",
+		"2",
+		"b"]
+	},
+	{
+		"id": "B3a",
+		"description": "B3a",
+		"pronounce": "B 3 A",
+		"steps": ["B",
+		"3",
+		"a"]
+	},
+	{
+		"id": "B3b",
+		"description": "B3b",
+		"pronounce": "B 3 B",
+		"steps": ["B",
+		"3",
+		"b"]
+	},
+	{
+		"id": "B4a",
+		"description": "B4a",
+		"pronounce": "B 4 A",
+		"steps": ["B",
+		"4",
+		"a"]
+	},
+	{
+		"id": "B4b",
+		"description": "B4b",
+		"pronounce": "B 4 B",
+		"steps": ["B",
+		"4",
+		"b"]
+	}],
+	"key": [{
+		"id": "B",
+		"description": "Base move- the base move consists of two variations: (a), a left hooking grab, pulling down diagonally to the left with a right vertical punch to your attacker's face, and (b) a left hooking grab, puling horizontally to the left with a right uppercut to your opponent's ribs."
+	},
+	{
+		"id": "a",
+		"description": "first variation"
+	},
+	{
+		"id": "b",
+		"description": "second variation"
+	},
+	{
+		"id": "1",
+		"description": "in place stance change"
+	},
+	{
+		"id": "2",
+		"description": "push drag"
+	},
+	{
+		"id": "3",
+		"description": "front crossover step out"
+	},
+	{
+		"id": "4",
+		"description": "front crossover step out with a step through"
+	}],
+	"index": {
+		"B": "0",
+		"a": "1",
+		"b": "2",
+		"1": "3",
+		"2": "4",
+		"3": "5",
+		"4": "6"
+	}
+},{
+	"id": "orange",
+	"description": "Orange Belt",
+	"facing": "LL - left to left; your left leg is forward facing your opponent, who is also left leg forward.",
+	"tech": [{
+		"id": "B1a",
+		"description": "B1a",
+		"pronounce": "B 1 A",
+		"steps": ["B",
+		"1",
+		"a"]
+	},
+	{
+		"id": "B1b",
+		"description": "B1b",
+		"pronounce": "B 1 B",
+		"steps": ["B",
+		"1",
+		"b"]
+	},
+	{
+		"id": "B2a",
+		"description": "B2a",
+		"pronounce": "B 2 A",
+		"steps": ["B",
+		"2",
+		"a"]
+	},
+	{
+		"id": "B2b",
+		"description": "B2b",
+		"pronounce": "B 2 B",
+		"steps": ["B",
+		"2",
+		"b"]
+	},
+	{
+		"id": "B3a",
+		"description": "B3a",
+		"pronounce": "B 3 A",
+		"steps": ["B",
+		"3",
+		"a"]
+	},
+	{
+		"id": "B3b",
+		"description": "B3b",
+		"pronounce": "B 3 B",
+		"steps": ["B",
+		"3",
+		"b"]
+	},
+	{
+		"id": "B4a",
+		"description": "B4a",
+		"pronounce": "B 4 A",
+		"steps": ["B",
+		"4",
+		"a"]
+	},
+	{
+		"id": "B4b",
+		"description": "B4b",
+		"pronounce": "B 4 B",
+		"steps": ["B",
+		"4",
+		"b"]
+	},
+	{
+		"id": "KB1a",
+		"description": "KB1a",
+		"pronounce": "K B 1 A",
+		"steps": ["K",
+		"B",
+		"1",
+		"a"]
+	},
+	{
+		"id": "KB1b",
+		"description": "KB1b",
+		"pronounce": "K B 1 B",
+		"steps": ["K",
+		"B",
+		"1",
+		"b"]
+	},
+	{
+		"id": "KB2a",
+		"description": "KB2a",
+		"pronounce": "K B 2 A",
+		"steps": ["K",
+		"B",
+		"2",
+		"a"]
+	},
+	{
+		"id": "KB2b",
+		"description": "KB2b",
+		"pronounce": "K B 2 B",
+		"steps": ["K",
+		"B",
+		"2",
+		"b"]
+	},
+	{
+		"id": "KB3a",
+		"description": "KB3a",
+		"pronounce": "K B 3 A",
+		"steps": ["K",
+		"B",
+		"3",
+		"a"]
+	},
+	{
+		"id": "KB3b",
+		"description": "KB3b",
+		"pronounce": "K B 3 B",
+		"steps": ["K",
+		"B",
+		"3",
+		"b"]
+	},
+	{
+		"id": "KB4a",
+		"description": "KB4a",
+		"pronounce": "K B 4 A",
+		"steps": ["K",
+		"B",
+		"4",
+		"a"]
+	},
+	{
+		"id": "KB4b",
+		"description": "KB4b",
+		"pronounce": "K B 4 B",
+		"steps": ["K",
+		"B",
+		"4",
+		"b"]
+	},
+	{
+		"id": "B1aH",
+		"description": "B1aH",
+		"pronounce": "B 1 A H",
+		"steps": ["B",
+		"1",
+		"a",
+		"H"]
+	},
+	{
+		"id": "B1bH",
+		"description": "B1bH",
+		"pronounce": "B 1 B H",
+		"steps": ["B",
+		"1",
+		"b",
+		"H"]
+	},
+	{
+		"id": "B2aH",
+		"description": "B2aH",
+		"pronounce": "B 2 A H",
+		"steps": ["B",
+		"2",
+		"a",
+		"H"]
+	},
+	{
+		"id": "B2bH",
+		"description": "B2bH",
+		"pronounce": "B 2 B H",
+		"steps": ["B",
+		"2",
+		"b",
+		"H"]
+	},
+	{
+		"id": "B3aH",
+		"description": "B3aH",
+		"pronounce": "B 3 A H",
+		"steps": ["B",
+		"3",
+		"a",
+		"H"]
+	},
+	{
+		"id": "B3bH",
+		"description": "B3bH",
+		"pronounce": "B 3 B H",
+		"steps": ["B",
+		"3",
+		"b",
+		"H"]
+	},
+	{
+		"id": "B4aH",
+		"description": "B4aH",
+		"pronounce": "B 4 A H",
+		"steps": ["B",
+		"4",
+		"a",
+		"H"]
+	},
+	{
+		"id": "B4bH",
+		"description": "B4bH",
+		"pronounce": "B 4 B H",
+		"steps": ["B",
+		"4",
+		"b",
+		"H"]
+	},
+	{
+		"id": "B1aHK",
+		"description": "B1aHK",
+		"pronounce": "B 1 A H K",
+		"steps": ["B",
+		"1",
+		"a",
+		"H",
+		"K"]
+	},
+	{
+		"id": "B1bHK",
+		"description": "B1bHK",
+		"pronounce": "B 1 B H K",
+		"steps": ["B",
+		"1",
+		"b",
+		"H",
+		"K"]
+	},
+	{
+		"id": "B2aHK",
+		"description": "B2aHK",
+		"pronounce": "B 2 A H K",
+		"steps": ["B",
+		"2",
+		"a",
+		"H",
+		"K"]
+	},
+	{
+		"id": "B2bHK",
+		"description": "B2bHK",
+		"pronounce": "B 2 B H K",
+		"steps": ["B",
+		"2",
+		"b",
+		"H",
+		"K"]
+	},
+	{
+		"id": "B3aHK",
+		"description": "B3aHK",
+		"pronounce": "B 3 A H K",
+		"steps": ["B",
+		"3",
+		"a",
+		"H",
+		"K"]
+	},
+	{
+		"id": "B3bHK",
+		"description": "B3bHK",
+		"pronounce": "B 3 B H K",
+		"steps": ["B",
+		"3",
+		"b",
+		"H",
+		"K"]
+	},
+	{
+		"id": "B4aHK",
+		"description": "B4aHK",
+		"pronounce": "B 4 A H K",
+		"steps": ["B",
+		"4",
+		"a",
+		"H",
+		"K"]
+	},
+	{
+		"id": "B4bHK",
+		"description": "B4bHK",
+		"pronounce": "B 4 B H K",
+		"steps": ["B",
+		"4",
+		"b",
+		"H",
+		"K"]
+	}],
+	"key": [{
+		"id": "B",
+		"description": "Base move- the base move consists of two variations: (a), a left hooking grab, pulling down diagonally to the left with a right vertical punch to your attacker's face, and (b) a left hooking grab, puling horizontally to the left with a right uppercut to your opponent's ribs."
+	},
+	{
+		"id": "a",
+		"description": "first variation"
+	},
+	{
+		"id": "b",
+		"description": "second variation"
+	},
+	{
+		"id": "1",
+		"description": "in place stance change"
+	},
+	{
+		"id": "2",
+		"description": "push drag"
+	},
+	{
+		"id": "3",
+		"description": "front crossover step out"
+	},
+	{
+		"id": "4",
+		"description": "front crossover step out with a step through"
+	},
+	{
+		"id": "P",
+		"description": "punch"
+	},
+	{
+		"id": "K",
+		"description": "kick; in this belt level, its a front leg front snap kick."
+	},
+	{
+		"id": "H",
+		"description": "heel of palm; in this case its the grabbing, or left hand, that is used."
+	}],
+	"index": {
+		"B": "0",
+		"a": "1",
+		"b": "2",
+		"1": "3",
+		"2": "4",
+		"3": "5",
+		"4": "6",
+		"P": "7",
+		"K": "8",
+		"H": "9"
+	}
+},{
+	"id": "purple",
+	"description": "Purple Belt",
+	"facing": "LL - left to left; your left leg is forward facing your opponent, who is also left leg forward.",
+	"tech": [{
+		"id": "B5a",
+		"description": "B5a",
+		"pronounce": "B 5 A",
+		"steps": ["B",
+		"5",
+		"a"]
+	},
+	{
+		"id": "B5b",
+		"description": "B5b",
+		"pronounce": "B 5 B",
+		"steps": ["B",
+		"5",
+		"b"]
+	},
+	{
+		"id": "B5aP",
+		"description": "B5aP",
+		"pronounce": "B 5 A P",
+		"steps": ["B",
+		"5",
+		"a",
+		"P"]
+	},
+	{
+		"id": "B5bP",
+		"description": "B5bP",
+		"pronounce": "B 5 B P",
+		"steps": ["B",
+		"5",
+		"b",
+		"P"]
+	},
+	{
+		"id": "B5aPbk",
+		"description": "B5aPbk",
+		"pronounce": "B 5 A P B K",
+		"steps": ["B",
+		"5",
+		"a",
+		"P",
+		"bk"]
+	},
+	{
+		"id": "B5aPhK",
+		"description": "B5aPhK",
+		"pronounce": "B 5 A P H K",
+		"steps": ["B",
+		"5",
+		"a",
+		"P",
+		"h",
+		"K"]
+	},
+	{
+		"id": "B5aPbkhK",
+		"description": "B5aPbkhK",
+		"pronounce": "B 5 A P B K H K",
+		"steps": ["B",
+		"5",
+		"a",
+		"P",
+		"bk",
+		"h",
+		"K"]
+	},
+	{
+		"id": "B5aPhKbk",
+		"description": "B5aPhKbk",
+		"pronounce": "B 5 A P H K B K",
+		"steps": ["B",
+		"5",
+		"a",
+		"P",
+		"h",
+		"K",
+		"bk"]
+	},
+	{
+		"id": "tsKrK",
+		"description": "tsKrK",
+		"pronounce": "T S K R K",
+		"steps": ["ts",
+		"K",
+		"r",
+		"K"]
+	},
+	{
+		"id": "rKtsK",
+		"description": "rKtsK",
+		"pronounce": "R K T S K",
+		"steps": ["r",
+		"K",
+		"ts",
+		"K"]
+	},
+	{
+		"id": "B1atsKrK",
+		"description": "B1atsKrK",
+		"pronounce": "B 1 A T S K R K",
+		"steps": ["B",
+		"1",
+		"a",
+		"ts",
+		"K",
+		"r",
+		"K"]
+	},
+	{
+		"id": "tsKrKB1a",
+		"description": "tsKrKB1a",
+		"pronounce": "T S K R K B 1 A",
+		"steps": ["ts",
+		"K",
+		"r",
+		"K",
+		"B",
+		"1",
+		"a"]
+	},
+	{
+		"id": "tsKB5a",
+		"description": "tsKB5a",
+		"pronounce": "T S K B 5 A",
+		"steps": ["ts",
+		"K",
+		"B",
+		"5",
+		"a"]
+	},
+	{
+		"id": "tsKB5b",
+		"description": "tsKB5b",
+		"pronounce": "T S K B 5 B",
+		"steps": ["ts",
+		"K",
+		"B",
+		"5",
+		"b"]
+	},
+	{
+		"id": "tsKB5aP",
+		"description": "tsKB5aP",
+		"pronounce": "T S K B 5 A P",
+		"steps": ["ts",
+		"K",
+		"B",
+		"5",
+		"a",
+		"P"]
+	},
+	{
+		"id": "tsKB5bP",
+		"description": "tsKB5bP",
+		"pronounce": "T S K B 5 B P",
+		"steps": ["ts",
+		"K",
+		"B",
+		"5",
+		"b",
+		"P"]
+	},
+	{
+		"id": "tsKB5aPbk",
+		"description": "tsKB5aPbk",
+		"pronounce": "T S K B 5 A P B K",
+		"steps": ["ts",
+		"K",
+		"B",
+		"5",
+		"a",
+		"P",
+		"bk"]
+	},
+	{
+		"id": "tsKB5aPhK",
+		"description": "tsKB5aPhK",
+		"pronounce": "T S K B 5 A P H K",
+		"steps": ["ts",
+		"K",
+		"B",
+		"5",
+		"a",
+		"P",
+		"h",
+		"K"]
+	},
+	{
+		"id": "tsKB5aPbkhK",
+		"description": "tsKB5aPbkhK",
+		"pronounce": "T S K B 5 A P B K H K",
+		"steps": ["ts",
+		"K",
+		"B",
+		"5",
+		"a",
+		"P",
+		"bk",
+		"h",
+		"K"]
+	},
+	{
+		"id": "tsKB5aPhKbk",
+		"description": "tsKB5aPhKbk",
+		"pronounce": "T S K B 5 A P H K B K",
+		"steps": ["ts",
+		"K",
+		"B",
+		"5",
+		"a",
+		"P",
+		"h",
+		"K",
+		"bk"]
+	},
+	{
+		"id": "rKtsK6bk",
+		"description": "rKtsK6bk",
+		"pronounce": "R K T S K 6 B K",
+		"steps": ["r",
+		"K",
+		"ts",
+		"K",
+		"6",
+		"bk"]
+	},
+	{
+		"id": "rKtsK6hK",
+		"description": "rKtsK6hK",
+		"pronounce": "R K T S K 6 H K",
+		"steps": ["r",
+		"K",
+		"ts",
+		"K",
+		"6",
+		"h",
+		"K"]
+	},
+	{
+		"id": "rKtsK6bkhK",
+		"description": "rKtsK6bkhK",
+		"pronounce": "R K T S K 6 B K H K",
+		"steps": ["r",
+		"K",
+		"ts",
+		"K",
+		"6",
+		"bk",
+		"h",
+		"K"]
+	},
+	{
+		"id": "rKtsK6hKbk",
+		"description": "rKtsK6hKbk",
+		"pronounce": "R K T S K 6 H K B K",
+		"steps": ["r",
+		"K",
+		"ts",
+		"K",
+		"6",
+		"h",
+		"K",
+		"bk"]
+	},
+	{
+		"id": "rKtsKB5a",
+		"description": "rKtsKB5a",
+		"pronounce": "R K T S K B 5 A",
+		"steps": ["r",
+		"K",
+		"ts",
+		"K",
+		"B",
+		"5",
+		"a"]
+	},
+	{
+		"id": "rKtsKB5b",
+		"description": "rKtsKB5b",
+		"pronounce": "R K T S K B 5 B",
+		"steps": ["r",
+		"K",
+		"ts",
+		"K",
+		"B",
+		"5",
+		"b"]
+	},
+	{
+		"id": "rKtsKB5aP",
+		"description": "rKtsKB5aP",
+		"pronounce": "R K T S K B 5 A P",
+		"steps": ["r",
+		"K",
+		"ts",
+		"K",
+		"B",
+		"5",
+		"a",
+		"P"]
+	},
+	{
+		"id": "rKtsKB5bP",
+		"description": "rKtsKB5bP",
+		"pronounce": "R K T S K B 5 B P",
+		"steps": ["r",
+		"K",
+		"ts",
+		"K",
+		"B",
+		"5",
+		"b",
+		"P"]
+	},
+	{
+		"id": "rKtsKB5aPbk",
+		"description": "rKtsKB5aPbk",
+		"pronounce": "R K T S K B 5 A P B K",
+		"steps": ["r",
+		"K",
+		"ts",
+		"K",
+		"B",
+		"5",
+		"a",
+		"P",
+		"bk"]
+	},
+	{
+		"id": "rKtsKB5aPhK",
+		"description": "rKtsKB5aPhK",
+		"pronounce": "R K T S K B 5 A P H K",
+		"steps": ["r",
+		"K",
+		"ts",
+		"K",
+		"B",
+		"5",
+		"a",
+		"P",
+		"h",
+		"K"]
+	},
+	{
+		"id": "rKtsKB5aPbkhK",
+		"description": "rKtsKB5aPbkhK",
+		"pronounce": "R K T S K B 5 A P B K H K",
+		"steps": ["r",
+		"K",
+		"ts",
+		"K",
+		"B",
+		"5",
+		"a",
+		"P",
+		"bk",
+		"h",
+		"K"]
+	},
+	{
+		"id": "rKtsKB5aPhKbk",
+		"description": "rKtsKB5aPhKbk",
+		"pronounce": "R K T S K B 5 A P H K B K",
+		"steps": ["r",
+		"K",
+		"ts",
+		"K",
+		"B",
+		"5",
+		"a",
+		"P",
+		"h",
+		"K",
+		"bk"]
+	}],
+	"key": [{
+		"id": "B",
+		"description": "base move. The base move consists of two variations, (a), a left hooking grab pulling diagonally down and to your left with a right ertical punch to your opponent's face, and (b) a left hooking grab pulling horizontally to the left with a right uppercut to your opponent's ribs."
+	},
+	{
+		"id": "a",
+		"description": "first variation"
+	},
+	{
+		"id": "b",
+		"description": "second variation"
+	},
+	{
+		"id": "1",
+		"description": "in place stance change"
+	},
+	{
+		"id": "5",
+		"description": "step-through"
+	},
+	{
+		"id": "6",
+		"description": "rear crossover"
+	},
+	{
+		"id": "P",
+		"description": "punch"
+	},
+	{
+		"id": "K",
+		"description": "kick"
+	},
+	{
+		"id": "h",
+		"description": "heel or back kick"
+	},
+	{
+		"id": "bk",
+		"description": "back knuckle"
+	},
+	{
+		"id": "ts",
+		"description": "thrusting sweep or thrusting sweep kick"
+	},
+	{
+		"id": "r",
+		"description": "roundhouse method of execution"
+	}],
+	"index": {
+		"B": "0",
+		"a": "1",
+		"b": "2",
+		"1": "3",
+		"5": "4",
+		"6": "5",
+		"P": "6",
+		"K": "7",
+		"h": "8",
+		"bk": "9",
+		"ts": "10",
+		"r": "11"
+	}
+},{
+	"id": "blue",
+	"description": "Blue Belt",
+	"facing": "RL - right to left; your right leg is forward is facing your opponent's left leg forward.",
+	"tech": [{
+		"id": "B1aPdK",
+		"description": "B1aPdK",
+		"pronounce": "B 1 A P D K",
+		"steps": ["B",
+		"1",
+		"a",
+		"P",
+		"d",
+		"K"]
+	},
+	{
+		"id": "B1bPdK",
+		"description": "B1bPdK",
+		"pronounce": "B 1 B P D K",
+		"steps": ["B",
+		"1",
+		"b",
+		"P",
+		"d",
+		"K"]
+	},
+	{
+		"id": "B2aPdK",
+		"description": "B2aPdK",
+		"pronounce": "B 2 A P D K",
+		"steps": ["B",
+		"2",
+		"a",
+		"P",
+		"d",
+		"K"]
+	},
+	{
+		"id": "B2bPdK",
+		"description": "B2bPdK",
+		"pronounce": "B 2 B P D K",
+		"steps": ["B",
+		"2",
+		"b",
+		"P",
+		"d",
+		"K"]
+	},
+	{
+		"id": "B3aPdK",
+		"description": "B3aPdK",
+		"pronounce": "B 3 A P D K",
+		"steps": ["B",
+		"3",
+		"a",
+		"P",
+		"d",
+		"K"]
+	},
+	{
+		"id": "B3bPdK",
+		"description": "B3bPdK",
+		"pronounce": "B 3 B P D K",
+		"steps": ["B",
+		"3",
+		"b",
+		"P",
+		"d",
+		"K"]
+	},
+	{
+		"id": "B4aPdK",
+		"description": "B4aPdK",
+		"pronounce": "B 4 A P D K",
+		"steps": ["B",
+		"4",
+		"a",
+		"P",
+		"d",
+		"K"]
+	},
+	{
+		"id": "B4bPdK",
+		"description": "B4bPdK",
+		"pronounce": "B 4 B P D K",
+		"steps": ["B",
+		"4",
+		"b",
+		"P",
+		"d",
+		"K"]
+	},
+	{
+		"id": "B5aPrK",
+		"description": "B5aPrK",
+		"pronounce": "B 5 A P R K",
+		"steps": ["B",
+		"5",
+		"a",
+		"P",
+		"r",
+		"K"]
+	},
+	{
+		"id": "B5bPrK",
+		"description": "B5bPrK",
+		"pronounce": "B 5 B P R K",
+		"steps": ["B",
+		"5",
+		"b",
+		"P",
+		"r",
+		"K"]
+	},
+	{
+		"id": "B6ahKbk",
+		"description": "B6ahKbk",
+		"pronounce": "B 6 A H K B K",
+		"steps": ["B",
+		"6",
+		"a",
+		"h",
+		"K",
+		"bk"]
+	},
+	{
+		"id": "B6bhKbk",
+		"description": "B6bhKbk",
+		"pronounce": "B 6 B H K B K",
+		"steps": ["B",
+		"6",
+		"b",
+		"h",
+		"K",
+		"bk"]
+	},
+	{
+		"id": "B1aPHrK",
+		"description": "B1aPHrK",
+		"pronounce": "B 1 A P H R K",
+		"steps": ["B",
+		"1",
+		"a",
+		"P",
+		"H",
+		"r",
+		"K"]
+	},
+	{
+		"id": "B1bPHrK",
+		"description": "B1bPHrK",
+		"pronounce": "B 1 B P H R K",
+		"steps": ["B",
+		"1",
+		"b",
+		"P",
+		"H",
+		"r",
+		"K"]
+	},
+	{
+		"id": "B2aPHrK",
+		"description": "B2aPHrK",
+		"pronounce": "B 2 A P H R K",
+		"steps": ["B",
+		"2",
+		"a",
+		"P",
+		"H",
+		"r",
+		"K"]
+	},
+	{
+		"id": "B2bPHrK",
+		"description": "B2bPHrK",
+		"pronounce": "B 2 B P H R K",
+		"steps": ["B",
+		"2",
+		"b",
+		"P",
+		"H",
+		"r",
+		"K"]
+	},
+	{
+		"id": "B3aPHrK",
+		"description": "B3aPHrK",
+		"pronounce": "B 3 A P H R K",
+		"steps": ["B",
+		"3",
+		"a",
+		"P",
+		"H",
+		"r",
+		"K"]
+	},
+	{
+		"id": "B3bPHrK",
+		"description": "B3bPHrK",
+		"pronounce": "B 3 B P H R K",
+		"steps": ["B",
+		"3",
+		"b",
+		"P",
+		"H",
+		"r",
+		"K"]
+	},
+	{
+		"id": "B4aPHrK",
+		"description": "B4aPHrK",
+		"pronounce": "B 4 A P H R K",
+		"steps": ["B",
+		"4",
+		"a",
+		"P",
+		"H",
+		"r",
+		"K"]
+	},
+	{
+		"id": "B4bPHrK",
+		"description": "B4bPHrK",
+		"pronounce": "B 4 B P H R K",
+		"steps": ["B",
+		"4",
+		"b",
+		"P",
+		"H",
+		"r",
+		"K"]
+	},
+	{
+		"id": "B5aPHrK",
+		"description": "B5aPHrK",
+		"pronounce": "B 5 A P H R K",
+		"steps": ["B",
+		"5",
+		"a",
+		"P",
+		"H",
+		"r",
+		"K"]
+	},
+	{
+		"id": "B5bPHrK",
+		"description": "B5bPHrK",
+		"pronounce": "B 5 B P H R K",
+		"steps": ["B",
+		"5",
+		"b",
+		"P",
+		"H",
+		"r",
+		"K"]
+	},
+	{
+		"id": "B6ahKbkls",
+		"description": "B6ahKbkls",
+		"pronounce": "B 6 A H K B K L S",
+		"steps": ["B",
+		"6",
+		"a",
+		"h",
+		"K",
+		"bk",
+		"ls"]
+	},
+	{
+		"id": "B6bhKbkls",
+		"description": "B6bhKbkls",
+		"pronounce": "B 6 B H K B K L S",
+		"steps": ["B",
+		"6",
+		"b",
+		"h",
+		"K",
+		"bk",
+		"ls"]
+	},
+	{
+		"id": "B1arKsrK",
+		"description": "B1arKsrK",
+		"pronounce": "B 1 A R K S R K",
+		"steps": ["B",
+		"1",
+		"a",
+		"r",
+		"K",
+		"sr",
+		"K"]
+	},
+	{
+		"id": "B1brKsrK",
+		"description": "B1brKsrK",
+		"pronounce": "B 1 B R K S R K",
+		"steps": ["B",
+		"1",
+		"b",
+		"r",
+		"K",
+		"sr",
+		"K"]
+	},
+	{
+		"id": "B3asKrKsrK",
+		"description": "B3asKrKsrK",
+		"pronounce": "B 3 A S K R K S R K",
+		"steps": ["B",
+		"3",
+		"a",
+		"s",
+		"K",
+		"r",
+		"K",
+		"sr",
+		"K"]
+	},
+	{
+		"id": "B3bsKrKsrK",
+		"description": "B3bsKrKsrK",
+		"pronounce": "B 3 B S K R K S R K",
+		"steps": ["B",
+		"3",
+		"b",
+		"s",
+		"K",
+		"r",
+		"K",
+		"sr",
+		"K"]
+	},
+	{
+		"id": "B5atsKrK",
+		"description": "B5atsKrK",
+		"pronounce": "B 5 A T S K R K",
+		"steps": ["B",
+		"5",
+		"a",
+		"ts",
+		"K",
+		"r",
+		"K"]
+	},
+	{
+		"id": "B5btsKrK",
+		"description": "B5btsKrK",
+		"pronounce": "B 5 B T S K R K",
+		"steps": ["B",
+		"5",
+		"b",
+		"ts",
+		"K",
+		"r",
+		"K"]
+	},
+	{
+		"id": "B6arsK6hK",
+		"description": "B6arsK6hK",
+		"pronounce": "B 6 A R S K 6 H K",
+		"steps": ["B",
+		"6",
+		"a",
+		"rs",
+		"K",
+		"6",
+		"h",
+		"K"]
+	},
+	{
+		"id": "B6brsK6hK",
+		"description": "B6brsK6hK",
+		"pronounce": "B 6 B R S K 6 H K",
+		"steps": ["B",
+		"6",
+		"b",
+		"rs",
+		"K",
+		"6",
+		"h",
+		"K"]
+	}],
+	"key": [{
+		"id": "B",
+		"description": "base move. the base move consists of two variations: (a), a left hooking grab, pulling down diagonally to the left with a right vertical punch to your attacker's face, and (b) a left hooking grab, puling horizontally to the left with a right uppercut to your opponent's ribs."
+	},
+	{
+		"id": "a",
+		"description": "first variation"
+	},
+	{
+		"id": "b",
+		"description": "second variation"
+	},
+	{
+		"id": "1",
+		"description": "in place stance change"
+	},
+	{
+		"id": "2",
+		"description": "push drag"
+	},
+	{
+		"id": "3",
+		"description": "front crossover"
+	},
+	{
+		"id": "4",
+		"description": "front crossover step out"
+	},
+	{
+		"id": "5",
+		"description": "front cross over, step out with a step-through"
+	},
+	{
+		"id": "6",
+		"description": "rear crossover"
+	},
+	{
+		"id": "P",
+		"description": "punch"
+	},
+	{
+		"id": "K",
+		"description": "kick; in this belt level, its a front leg front snap kick."
+	},
+	{
+		"id": "d",
+		"description": "drag kick"
+	},
+	{
+		"id": "r",
+		"description": "round house method of execution"
+	},
+	{
+		"id": "h",
+		"description": "heel or back heel kick"
+	},
+	{
+		"id": "bk",
+		"description": "back knuckle"
+	},
+	{
+		"id": "H",
+		"description": "heel of palm; in this case its the checking, or right hand, that is used."
+	},
+	{
+		"id": "ls",
+		"description": "leg sweep; spinning left stiff-leg sweep."
+	},
+	{
+		"id": "s",
+		"description": "snapping method of execution"
+	},
+	{
+		"id": "sr",
+		"description": "spinning rear or thrusting sweep kick"
+	},
+	{
+		"id": "ts",
+		"description": "thrusting sweep or thrusting sweep kick"
+	},
+	{
+		"id": "rs",
+		"description": "reverse snapping method of execution"
+	}],
+	"index": {
+		"B": "0",
+		"a": "1",
+		"b": "2",
+		"1": "3",
+		"2": "4",
+		"3": "5",
+		"4": "6",
+		"5": "7",
+		"6": "8",
+		"P": "9",
+		"K": "10",
+		"d": "11",
+		"r": "12",
+		"h": "13",
+		"bk": "14",
+		"H": "15",
+		"ls": "16",
+		"s": "17",
+		"sr": "18",
+		"ts": "19",
+		"rs": "20"
+	}
+},{
+	"id": "green",
+	"description": "Green Belt",
+	"facing": "RR - right to right; your right leg is forward is facing your opponent's right leg forward.",
+	"tech": [{
+		"id": "BSTbk",
+		"description": "BSTbk",
+		"pronounce": "B S T B K",
+		"steps": ["B",
+		"ST",
+		"bk"]
+	},
+	{
+		"id": "BKLP",
+		"description": "BKLP",
+		"pronounce": "B K L P",
+		"steps": ["B",
+		"KL",
+		"P"]
+	},
+	{
+		"id": "BhPsr",
+		"description": "BhPsr",
+		"pronounce": "B H P S R",
+		"steps": ["B",
+		"h",
+		"P",
+		"sr"]
+	},
+	{
+		"id": "BSKP",
+		"description": "BSKP",
+		"pronounce": "B S K P",
+		"steps": ["B",
+		"SK",
+		"P"]
+	}],
+	"key": [{
+		"id": "B",
+		"description": "base move. In the Green belt freestyle techniques, the base move is a right hand grab with a left rear crossover."
+	},
+	{
+		"id": "h",
+		"description": "hooking"
+	},
+	{
+		"id": "H",
+		"description": "heel palm"
+	},
+	{
+		"id": "KL",
+		"description": "knee lift"
+	},
+	{
+		"id": "P",
+		"description": "punch"
+	},
+	{
+		"id": "SK",
+		"description": "side kick"
+	},
+	{
+		"id": "sr",
+		"description": "spinning rear kick"
+	},
+	{
+		"id": "bk",
+		"description": "back knuckle"
+	},
+	{
+		"id": "H",
+		"description": "heel of palm; in this case its the checking, or right hand, that is used."
+	},
+	{
+		"id": "ST",
+		"description": "step-through"
+	}],
+	"index": {
+		"B": "0",
+		"h": "1",
+		"H": "2",
+		"KL": "3",
+		"P": "4",
+		"SK": "5",
+		"sr": "6",
+		"bk": "7",
+		"H": "8",
+		"ST": "9"
+	}
+}
+]

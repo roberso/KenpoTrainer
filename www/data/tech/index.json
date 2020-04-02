@@ -1,0 +1,1736 @@
+[
+   {
+      "id": "am",
+      "extension": false,
+      "name": "Alternating Maces",
+      "attack": "front- two-handed push"
+   },
+   {
+      "id": "am-1",
+      "extension": false,
+      "name": "Attacking Mace",
+      "attack": "front - right step through straight punch"
+   },
+   {
+      "id": "bb",
+      "extension": false,
+      "name": "Buckling Branch",
+      "attack": "front straight left kick"
+   },
+   {
+      "id": "bbwe",
+      "extension": true,
+      "name": "Buckling Branch With Extension",
+      "attack": "front straight left kick"
+   },
+   {
+      "id": "bg",
+      "extension": false,
+      "name": "Broken Gift",
+      "attack": "handshake"
+   },
+   {
+      "id": "bgwe",
+      "extension": true,
+      "name": "Broken Gift With Extension",
+      "attack": "handshake"
+   },
+   {
+      "id": "bh",
+      "extension": false,
+      "name": "Begging Hands",
+      "attack": "front two-hand grab to wrists"
+   },
+   {
+      "id": "bhwe",
+      "extension": true,
+      "name": "Begging Hands With Extension",
+      "attack": "front two-hand grab to wrists"
+   },
+   {
+      "id": "boc",
+      "extension": false,
+      "name": "Bow Of Compulsion",
+      "attack": "front wrist lock - against chest"
+   },
+   {
+      "id": "bocwe",
+      "extension": true,
+      "name": "Bow Of Compulsion With Extension",
+      "attack": "front wrist lock - against chest"
+   },
+   {
+      "id": "br",
+      "extension": false,
+      "name": "Broken Ram",
+      "attack": "front tackle"
+   },
+   {
+      "id": "brwe",
+      "extension": false,
+      "name": "Broken Rod",
+      "attack": "rear right hard pistol"
+   },
+   {
+      "id": "brwe-1",
+      "extension": true,
+      "name": "Broken Ram With Extension",
+      "attack": "front tackle"
+   },
+   {
+      "id": "bs",
+      "extension": false,
+      "name": "Blinding Sacrifice",
+      "attack": "front two-hand choke or grab attempt"
+   },
+   {
+      "id": "bswe",
+      "extension": true,
+      "name": "Blinding Sacrifice With Extension",
+      "attack": "front two-hand choke or grab attempt"
+   },
+   {
+      "id": "btbwe",
+      "extension": false,
+      "name": "Bowing To Buddha",
+      "attack": "right front roundhouse kick"
+   },
+   {
+      "id": "bts",
+      "extension": false,
+      "name": "Brushing The Storm",
+      "attack": "flank right overhead club"
+   },
+   {
+      "id": "btswe",
+      "extension": true,
+      "name": "Brushing The Storm With Extension",
+      "attack": "flank right overhead club"
+   },
+   {
+      "id": "cd",
+      "extension": false,
+      "name": "Circling Destruction",
+      "attack": "front step through left punch"
+   },
+   {
+      "id": "cdwe",
+      "extension": true,
+      "name": "Circling Destruction With Extension",
+      "attack": "front step through left punch"
+   },
+   {
+      "id": "cf",
+      "extension": false,
+      "name": "Circling Fans",
+      "attack": "front straight left and right punch"
+   },
+   {
+      "id": "cf-1",
+      "extension": false,
+      "name": "Clutching Feathers",
+      "attack": "front left hand hair grab"
+   },
+   {
+      "id": "cfwe",
+      "extension": true,
+      "name": "Clutching Feathers With Extension",
+      "attack": "front left hand hair grab"
+   },
+   {
+      "id": "cfwe-1",
+      "extension": true,
+      "name": "Circling Fans With Extension",
+      "attack": "front straight left and right punch"
+   },
+   {
+      "id": "ch",
+      "extension": false,
+      "name": "Crushing Hammer",
+      "attack": "rear bear hug - arms pinned"
+   },
+   {
+      "id": "chwe",
+      "extension": true,
+      "name": "Crushing Hammer With Extension",
+      "attack": "rear bear hug-arms pinned"
+   },
+   {
+      "id": "cl",
+      "extension": false,
+      "name": "Captured Leaves",
+      "attack": "flank finger lock"
+   },
+   {
+      "id": "clwe",
+      "extension": true,
+      "name": "Captured Leaves With Extension",
+      "attack": "flank finger lock"
+   },
+   {
+      "id": "cod",
+      "extension": false,
+      "name": "Circle Of Doom",
+      "attack": "front straight right kick"
+   },
+   {
+      "id": "cod-1",
+      "extension": false,
+      "name": "Cross Of Death",
+      "attack": "front two-hand cross choke"
+   },
+   {
+      "id": "cod-2",
+      "extension": false,
+      "name": "Cross Of Destruction",
+      "attack": "rear two-hand choke"
+   },
+   {
+      "id": "codwe",
+      "extension": true,
+      "name": "Cross Of Destruction With Extension",
+      "attack": "rear two-hand choke"
+   },
+   {
+      "id": "codwe-1",
+      "extension": true,
+      "name": "Cross Of Death With Extension",
+      "attack": "front two-hand cross choke"
+   },
+   {
+      "id": "codwe-2",
+      "extension": true,
+      "name": "Circle Of Doom With Extension",
+      "attack": "front straight right kick"
+   },
+   {
+      "id": "cop",
+      "extension": false,
+      "name": "Circles Of Protection",
+      "attack": "front step through overhead right punch"
+   },
+   {
+      "id": "copwe",
+      "extension": true,
+      "name": "Circles Of Protection With Extension",
+      "attack": "front step through overhead right punch"
+   },
+   {
+      "id": "cr",
+      "extension": false,
+      "name": "Charging Ram",
+      "attack": "front tackle"
+   },
+   {
+      "id": "crwe",
+      "extension": true,
+      "name": "Charging Ram with Extension",
+      "attack": "front tackle"
+   },
+   {
+      "id": "crwe-1",
+      "extension": true,
+      "name": "Charging Ram With Extension",
+      "attack": "front tackle"
+   },
+   {
+      "id": "cs",
+      "extension": false,
+      "name": "Conquering Shield",
+      "attack": "front left stiff arm lapel grab"
+   },
+   {
+      "id": "cswe",
+      "extension": true,
+      "name": "Conquering Shield With Extension",
+      "attack": "front left stiff arm lapel grab"
+   },
+   {
+      "id": "ct",
+      "extension": false,
+      "name": "Crossing Talon",
+      "attack": "front right cross wrist grab"
+   },
+   {
+      "id": "ct-1",
+      "extension": false,
+      "name": "Captured Twigs",
+      "attack": "rear- bear hug around waist with arms pinned"
+   },
+   {
+      "id": "ct-2",
+      "extension": false,
+      "name": "Crossed Twigs",
+      "attack": "rear two-hand grab to wrists"
+   },
+   {
+      "id": "cth",
+      "extension": false,
+      "name": "Circling The Horizon",
+      "attack": "front step through punch"
+   },
+   {
+      "id": "cthwe",
+      "extension": true,
+      "name": "Circling The Horizon With Extension",
+      "attack": "front step through punch"
+   },
+   {
+      "id": "ctrwe",
+      "extension": false,
+      "name": "Capturing The Rod",
+      "attack": "right front pistol against your chest"
+   },
+   {
+      "id": "cts",
+      "extension": false,
+      "name": "Capturing The Storm",
+      "attack": "front right overhead club"
+   },
+   {
+      "id": "cts-1",
+      "extension": false,
+      "name": "Clipping The Storm",
+      "attack": "front right thrusting club"
+   },
+   {
+      "id": "cts-2",
+      "extension": false,
+      "name": "Calming The Storm",
+      "attack": "front right roundhouse club"
+   },
+   {
+      "id": "cts-3",
+      "extension": false,
+      "name": "Checking The Storm",
+      "attack": "front - right step-through overhead club"
+   },
+   {
+      "id": "ctswe",
+      "extension": false,
+      "name": "Circling The Storm",
+      "attack": "right front club poke"
+   },
+   {
+      "id": "ctswe-1",
+      "extension": true,
+      "name": "Calming The Storm With Extension",
+      "attack": "front right roundhouse club"
+   },
+   {
+      "id": "ctswe-2",
+      "extension": true,
+      "name": "Capturing The Storm With Extension",
+      "attack": "front right overhead club"
+   },
+   {
+      "id": "ctswe-3",
+      "extension": true,
+      "name": "Clipping The Storm With Extension",
+      "attack": "front right thrusting club"
+   },
+   {
+      "id": "ctt",
+      "extension": false,
+      "name": "Courting The Tiger",
+      "attack": "left and right arm grab"
+   },
+   {
+      "id": "cttwe",
+      "extension": true,
+      "name": "Courting The Tiger With Extension",
+      "attack": "left and right arm grab"
+   },
+   {
+      "id": "ctwe",
+      "extension": true,
+      "name": "Crossing Talon With Extension",
+      "attack": "front right cross wrist grab"
+   },
+   {
+      "id": "ctwe-1",
+      "extension": true,
+      "name": "Crossed Twigs With Extension",
+      "attack": "rear two-hand grab to wrists"
+   },
+   {
+      "id": "cw",
+      "extension": false,
+      "name": "Crashing Wings",
+      "attack": "rear bear hug - arms free"
+   },
+   {
+      "id": "cw-1",
+      "extension": false,
+      "name": "Circling Wing",
+      "attack": "rear two-hand choke - arms bent"
+   },
+   {
+      "id": "cwwe",
+      "extension": false,
+      "name": "Circling Windmills",
+      "attack": "two-hand push followed by right punch with your back near a wall"
+   },
+   {
+      "id": "cwwe-1",
+      "extension": true,
+      "name": "Crashing Wings With Extension",
+      "attack": "rear bear hug-arms-free"
+   },
+   {
+      "id": "cwwe-2",
+      "extension": true,
+      "name": "Circling Wing With Extension",
+      "attack": "rear two-hand choke-arms bent"
+   },
+   {
+      "id": "dc",
+      "extension": false,
+      "name": "Dominating Circles",
+      "attack": "front - offset right hand grab to right shoulder"
+   },
+   {
+      "id": "dcwe",
+      "extension": false,
+      "name": "Defensive Cross",
+      "attack": "right front kick"
+   },
+   {
+      "id": "dcwe-1",
+      "extension": true,
+      "name": "Dominating Circles With Extension",
+      "attack": "front - offset right hand grab to right shoulder"
+   },
+   {
+      "id": "df",
+      "extension": false,
+      "name": "Destructive Fans",
+      "attack": "flank right punch with opponent's right leg forward"
+   },
+   {
+      "id": "df-1",
+      "extension": false,
+      "name": "Desperate Falcons",
+      "attack": "front two-hand grab to wrists"
+   },
+   {
+      "id": "dfd",
+      "extension": false,
+      "name": "Detour From Doom",
+      "attack": "front right roundhouse kick"
+   },
+   {
+      "id": "dfdwe",
+      "extension": true,
+      "name": "Detour From Doom With Extension",
+      "attack": "front right roundhouse kick"
+   },
+   {
+      "id": "dfwe",
+      "extension": true,
+      "name": "Desperate Falcons With Extension",
+      "attack": "front two-hand grab to wrists"
+   },
+   {
+      "id": "dfwe-1",
+      "extension": true,
+      "name": "Destructive Fans With Extension",
+      "attack": "flank right punch with opponent's right leg forward"
+   },
+   {
+      "id": "dh",
+      "extension": false,
+      "name": "Deflecting Hammer",
+      "attack": "front- right front thrust kick"
+   },
+   {
+      "id": "dkwe",
+      "extension": false,
+      "name": "Destructive Kneel",
+      "attack": "front step through right punch"
+   },
+   {
+      "id": "dm",
+      "extension": false,
+      "name": "Darting Mace",
+      "attack": "front two-hand wrist grab"
+   },
+   {
+      "id": "dmwe",
+      "extension": true,
+      "name": "Darting Mace With Extension",
+      "attack": "front two-hand wrist grab"
+   },
+   {
+      "id": "dod",
+      "extension": false,
+      "name": "Dance Of Death",
+      "attack": "front straight right punch"
+   },
+   {
+      "id": "dodwe",
+      "extension": false,
+      "name": "Dance Of Darkness",
+      "attack": "right front kick followed by right punch"
+   },
+   {
+      "id": "dodwe-1",
+      "extension": true,
+      "name": "Dance Of Death With Extension",
+      "attack": "front straight right punch"
+   },
+   {
+      "id": "dp",
+      "extension": false,
+      "name": "Deceptive Panther",
+      "attack": "combination front right snap kick (low"
+   },
+   {
+      "id": "dpwe",
+      "extension": true,
+      "name": "Deceptive Panther With Extension",
+      "attack": "combination front right snap kick (low"
+   },
+   {
+      "id": "ds",
+      "extension": false,
+      "name": "Delayed Sword",
+      "attack": "front- right lapel grab"
+   },
+   {
+      "id": "dt",
+      "extension": false,
+      "name": "Destructive Twins",
+      "attack": "two-hand choke - pull in"
+   },
+   {
+      "id": "dtrwe",
+      "extension": false,
+      "name": "Defying The Rod",
+      "attack": "right front pistol"
+   },
+   {
+      "id": "dts",
+      "extension": false,
+      "name": "Defying The Storm",
+      "attack": "front right roundhouse club"
+   },
+   {
+      "id": "dtswe",
+      "extension": true,
+      "name": "Defying The Storm With Extension",
+      "attack": "front right roundhouse club"
+   },
+   {
+      "id": "dtwe",
+      "extension": true,
+      "name": "Destructive Twins With Extension",
+      "attack": "two-hand choke - pull in"
+   },
+   {
+      "id": "efd",
+      "extension": false,
+      "name": "Escape From Darkness",
+      "attack": "left rear flank - right step through punch"
+   },
+   {
+      "id": "efd-1",
+      "extension": false,
+      "name": "Escape From Death",
+      "attack": "right rear arm choke"
+   },
+   {
+      "id": "efdwe",
+      "extension": true,
+      "name": "Escape From Death With Extension",
+      "attack": "right rear arm choke"
+   },
+   {
+      "id": "efdwe-1",
+      "extension": true,
+      "name": "Escape From Darkness With Extension",
+      "attack": "left rear flank - right step through punch"
+   },
+   {
+      "id": "eftswe",
+      "extension": false,
+      "name": "Escape From The Storm",
+      "attack": "right flank, overhead right club"
+   },
+   {
+      "id": "el",
+      "extension": false,
+      "name": "Entwined Lance",
+      "attack": "front right knife thrust"
+   },
+   {
+      "id": "elwe",
+      "extension": true,
+      "name": "Entwined Lance With Extension",
+      "attack": "front right knife thrust"
+   },
+   {
+      "id": "em",
+      "extension": false,
+      "name": "Entwined Maces",
+      "attack": "left and right punch with opponent's left leg forward"
+   },
+   {
+      "id": "emwe",
+      "extension": true,
+      "name": "Entwined Maces With Extension",
+      "attack": "left and right punch with opponent's left leg forward"
+   },
+   {
+      "id": "ets",
+      "extension": false,
+      "name": "Evading The Storm",
+      "attack": "front right overhead club"
+   },
+   {
+      "id": "etswe",
+      "extension": true,
+      "name": "Evading The Storm With Extension",
+      "attack": "front right overhead club"
+   },
+   {
+      "id": "ew",
+      "extension": false,
+      "name": "Entangled Wing",
+      "attack": "front arm lock"
+   },
+   {
+      "id": "ewd",
+      "extension": false,
+      "name": "Encounter With Danger",
+      "attack": "front two-hand push"
+   },
+   {
+      "id": "ewdwe",
+      "extension": true,
+      "name": "Encounter With Danger With Extension",
+      "attack": "front two-hand push"
+   },
+   {
+      "id": "ewwe",
+      "extension": true,
+      "name": "Entangled Wing With Extension",
+      "attack": "front arm lock"
+   },
+   {
+      "id": "fc",
+      "extension": false,
+      "name": "Fallen Cross",
+      "attack": "rear two-hand choke"
+   },
+   {
+      "id": "fcwe",
+      "extension": false,
+      "name": "Fatal Cross",
+      "attack": "two-hand attempted low grab or push"
+   },
+   {
+      "id": "fcwe-1",
+      "extension": true,
+      "name": "Fallen Cross With Extension",
+      "attack": "rear two-hand choke"
+   },
+   {
+      "id": "fd",
+      "extension": false,
+      "name": "Fatal Deviation",
+      "attack": "front- right &amp; left punch combination"
+   },
+   {
+      "id": "fdwe",
+      "extension": true,
+      "name": "Fatal Deviation With Extension",
+      "attack": "front- right &amp; left punch combination"
+   },
+   {
+      "id": "ff",
+      "extension": false,
+      "name": "Falling Falcon",
+      "attack": "front - right direct lapel grab"
+   },
+   {
+      "id": "ffwe",
+      "extension": true,
+      "name": "Falling Falcon With Extension",
+      "attack": "front - right direct lapel grab"
+   },
+   {
+      "id": "fm",
+      "extension": false,
+      "name": "Flashing Mace",
+      "attack": "front straight right punch"
+   },
+   {
+      "id": "fmwe",
+      "extension": true,
+      "name": "Flashing Mace With Extension",
+      "attack": "front straight right punch"
+   },
+   {
+      "id": "fof",
+      "extension": false,
+      "name": "Falcons Of Force",
+      "attack": "left and right shoulder grab"
+   },
+   {
+      "id": "fofwe",
+      "extension": true,
+      "name": "Falcons Of Force With Extension",
+      "attack": "left and right shoulder grab"
+   },
+   {
+      "id": "fs",
+      "extension": false,
+      "name": "Five Swords",
+      "attack": "front roundhouse right punch"
+   },
+   {
+      "id": "fswe",
+      "extension": true,
+      "name": "Five Swords With Extension",
+      "attack": "front roundhouse right punch"
+   },
+   {
+      "id": "ftf",
+      "extension": false,
+      "name": "Flight To Freedom",
+      "attack": "hammerlock"
+   },
+   {
+      "id": "ftfwe",
+      "extension": true,
+      "name": "Flight To Freedom With Extension",
+      "attack": "hammerlock"
+   },
+   {
+      "id": "fw",
+      "extension": false,
+      "name": "Flashing Wings",
+      "attack": "front straight right punch"
+   },
+   {
+      "id": "fwwe",
+      "extension": true,
+      "name": "Flashing Wings With Extension",
+      "attack": "front straight right punch"
+   },
+   {
+      "id": "gc",
+      "extension": false,
+      "name": "Gathering Clouds",
+      "attack": "front straight right punch"
+   },
+   {
+      "id": "gcwe",
+      "extension": true,
+      "name": "Gathering Clouds With Extension",
+      "attack": "front straight right punch"
+   },
+   {
+      "id": "ge",
+      "extension": false,
+      "name": "Grasping Eagles",
+      "attack": "right front lapel grab and rear right arm grab"
+   },
+   {
+      "id": "gewe",
+      "extension": true,
+      "name": "Grasping Eagles With Extension",
+      "attack": "right front lapel grab and rear right arm grab"
+   },
+   {
+      "id": "gir",
+      "extension": false,
+      "name": "Gift In Return",
+      "attack": "front hand shake"
+   },
+   {
+      "id": "girwe",
+      "extension": true,
+      "name": "Gift In Return With Extension",
+      "attack": "front hand shake"
+   },
+   {
+      "id": "gl",
+      "extension": false,
+      "name": "Glancing Lance",
+      "attack": "front knife thrust - with your arms down"
+   },
+   {
+      "id": "glwe",
+      "extension": true,
+      "name": "Glancing Lance With Extension",
+      "attack": "front knife thrust - with your arms down"
+   },
+   {
+      "id": "god",
+      "extension": false,
+      "name": "Grip Of Death",
+      "attack": "flank head lock"
+   },
+   {
+      "id": "god-1",
+      "extension": false,
+      "name": "Gift Of Destruction",
+      "attack": "handshake"
+   },
+   {
+      "id": "god-2",
+      "extension": false,
+      "name": "Gift Of Destiny",
+      "attack": "handshake"
+   },
+   {
+      "id": "godwe",
+      "extension": true,
+      "name": "Gift Of Destruction With Extension",
+      "attack": "handshake"
+   },
+   {
+      "id": "godwe-1",
+      "extension": true,
+      "name": "Grip Of Death With Extension",
+      "attack": "flank head lock"
+   },
+   {
+      "id": "godwe-2",
+      "extension": true,
+      "name": "Gift Of Destiny With Extension",
+      "attack": "handshake"
+   },
+   {
+      "id": "gots",
+      "extension": false,
+      "name": "Gathering Of The Snakes",
+      "attack": "front left punch and rear right punch"
+   },
+   {
+      "id": "gotswe",
+      "extension": true,
+      "name": "Gathering Of The Snakes With Extension",
+      "attack": "front left punch and rear right punch"
+   },
+   {
+      "id": "gs",
+      "extension": false,
+      "name": "Glancing Spear",
+      "attack": "front direct left wrist grab"
+   },
+   {
+      "id": "gs-1",
+      "extension": false,
+      "name": "Glancing Salute",
+      "attack": "front right cross shoulder push"
+   },
+   {
+      "id": "gswe",
+      "extension": true,
+      "name": "Glancing Salute With Extension",
+      "attack": "front right hand cross push"
+   },
+   {
+      "id": "gswe-1",
+      "extension": true,
+      "name": "Glancing Spear With Extension",
+      "attack": "front direct left wrist grab"
+   },
+   {
+      "id": "gt",
+      "extension": false,
+      "name": "Gripping Talon",
+      "attack": "front left hand direct wrist grab"
+   },
+   {
+      "id": "gtwe",
+      "extension": true,
+      "name": "Gripping Talon With Extension",
+      "attack": "front left hand direct wrist grab"
+   },
+   {
+      "id": "gw",
+      "extension": false,
+      "name": "Glancing Wing",
+      "attack": "front left uppercut punch"
+   },
+   {
+      "id": "gwwe",
+      "extension": true,
+      "name": "Glancing Wing With Extension",
+      "attack": "front left uppercut punch"
+   },
+   {
+      "id": "ha",
+      "extension": false,
+      "name": "Heavenly Ascent",
+      "attack": "front two-hand choke - arms straight"
+   },
+   {
+      "id": "hawe",
+      "extension": true,
+      "name": "Heavenly Ascent With Extension",
+      "attack": "front two-hand choke - arms straight"
+   },
+   {
+      "id": "hp",
+      "extension": false,
+      "name": "Hugging Pendulum",
+      "attack": "front right side kick"
+   },
+   {
+      "id": "hpwe",
+      "extension": true,
+      "name": "Hugging Pendulum With Extension",
+      "attack": "front right side kick"
+   },
+   {
+      "id": "hw",
+      "extension": false,
+      "name": "Hooking Wings",
+      "attack": "front two-hand low push"
+   },
+   {
+      "id": "hwwe",
+      "extension": true,
+      "name": "Hooking Wings With Extension",
+      "attack": "front two-hand low push"
+   },
+   {
+      "id": "id",
+      "extension": false,
+      "name": "Intellectual Departure",
+      "attack": "right front ball kick"
+   },
+   {
+      "id": "itr",
+      "extension": false,
+      "name": "Intercepting The Ram",
+      "attack": "front tackle"
+   },
+   {
+      "id": "itrwe",
+      "extension": true,
+      "name": "Intercepting The Ram With Extension",
+      "attack": "front tackle"
+   },
+   {
+      "id": "koc",
+      "extension": false,
+      "name": "Kneel Of Compulsion",
+      "attack": "flank step through right punch"
+   },
+   {
+      "id": "kocwe",
+      "extension": true,
+      "name": "Kneel Of Compulsion With Extension",
+      "attack": "flank step through right punch"
+   },
+   {
+      "id": "lc",
+      "extension": false,
+      "name": "Leaping Crane",
+      "attack": "front step through right punch"
+   },
+   {
+      "id": "lcwe",
+      "extension": true,
+      "name": "Leaping Crane With Extension",
+      "attack": "front step through right punch"
+   },
+   {
+      "id": "lfd",
+      "extension": false,
+      "name": "Leap From Danger",
+      "attack": "rear two-hand push"
+   },
+   {
+      "id": "lfdwe",
+      "extension": true,
+      "name": "Leap From Danger With Extension",
+      "attack": "rear two-hand push"
+   },
+   {
+      "id": "lh",
+      "extension": false,
+      "name": "Locking Horns",
+      "attack": "front head lock"
+   },
+   {
+      "id": "lhwe",
+      "extension": true,
+      "name": "Locking Horns With Extension",
+      "attack": "front head lock"
+   },
+   {
+      "id": "lk",
+      "extension": false,
+      "name": "Lone Kimono",
+      "attack": "front left hand lapel grab"
+   },
+   {
+      "id": "lkwe",
+      "extension": true,
+      "name": "Lone Kimono With Extension",
+      "attack": "front left hand lapel grab"
+   },
+   {
+      "id": "lod",
+      "extension": false,
+      "name": "Leap Of Death",
+      "attack": "front straight right punch"
+   },
+   {
+      "id": "lodwe",
+      "extension": true,
+      "name": "Leap Of Death With Extension",
+      "attack": "front straight right punch"
+   },
+   {
+      "id": "lw",
+      "extension": false,
+      "name": "Locked Wing",
+      "attack": "hammerlock"
+   },
+   {
+      "id": "lwwe",
+      "extension": true,
+      "name": "Locked Wing With Extension",
+      "attack": "right hammerlock"
+   },
+   {
+      "id": "moa",
+      "extension": false,
+      "name": "Mace Of Aggression",
+      "attack": "front- two-hand lapel grab - pulling in"
+   },
+   {
+      "id": "motr",
+      "extension": false,
+      "name": "Marriage Of The Rams",
+      "attack": "left and right shoulder grab - close"
+   },
+   {
+      "id": "motrwe",
+      "extension": true,
+      "name": "Marriage Of The Rams With Extension",
+      "attack": "left and right shoulder grab - close"
+   },
+   {
+      "id": "mt",
+      "extension": false,
+      "name": "Menacing Twirl",
+      "attack": "left hand rear belt grab"
+   },
+   {
+      "id": "mtwe",
+      "extension": true,
+      "name": "Menacing Twirl With Extension",
+      "attack": "left hand rear belt grab"
+   },
+   {
+      "id": "oc",
+      "extension": false,
+      "name": "Obscure Claws",
+      "attack": "flank left hand shoulder grab"
+   },
+   {
+      "id": "ocwe",
+      "extension": true,
+      "name": "Obscure Claws With Extension",
+      "attack": "flank left hand shoulder grab"
+   },
+   {
+      "id": "os",
+      "extension": false,
+      "name": "Obscure Sword",
+      "attack": "flank left hand shoulder grab"
+   },
+   {
+      "id": "oswe",
+      "extension": true,
+      "name": "Obscure Sword With Extension",
+      "attack": "flank left hand shoulder grab"
+   },
+   {
+      "id": "ots",
+      "extension": false,
+      "name": "Obstructing The Storm",
+      "attack": "front right overhead club"
+   },
+   {
+      "id": "otswe",
+      "extension": true,
+      "name": "Obstructing The Storm With Extension",
+      "attack": "front right overhead club"
+   },
+   {
+      "id": "ow",
+      "extension": false,
+      "name": "Obscure Wing",
+      "attack": "flank left hand shoulder grab"
+   },
+   {
+      "id": "owwe",
+      "extension": true,
+      "name": "Obscure Wing With Extension",
+      "attack": "flank left hand shoulder grab"
+   },
+   {
+      "id": "pf",
+      "extension": false,
+      "name": "Protecting Fans",
+      "attack": "front left and right punch with opponent's left leg forward - the same sequence may be used for a right and left punch"
+   },
+   {
+      "id": "pfwe",
+      "extension": true,
+      "name": "Protecting Fans With Extension",
+      "attack": "front left and right punch with opponent's left leg forward - the same sequence may be used for a right and left punch"
+   },
+   {
+      "id": "pl",
+      "extension": false,
+      "name": "Piercing Lance",
+      "attack": "front knife thrust - with your arms up"
+   },
+   {
+      "id": "plwe",
+      "extension": true,
+      "name": "Piercing Lance With Extension",
+      "attack": "front knife thrust - with your arms up"
+   },
+   {
+      "id": "pots",
+      "extension": false,
+      "name": "Parting Of The Snakes",
+      "attack": "front right punch and rear attempt"
+   },
+   {
+      "id": "potswe",
+      "extension": true,
+      "name": "Parting Of The Snakes With Extension",
+      "attack": "front right punch and rear attempt"
+   },
+   {
+      "id": "pottwe",
+      "extension": false,
+      "name": "Prance Of The Tiger",
+      "attack": "right flank step-thru right uppercut punch"
+   },
+   {
+      "id": "pw",
+      "extension": false,
+      "name": "Parting Wings",
+      "attack": "front two-hand push"
+   },
+   {
+      "id": "pwwe",
+      "extension": true,
+      "name": "Parting Wings with Extension",
+      "attack": "front two-hand push"
+   },
+   {
+      "id": "pwwe-1",
+      "extension": true,
+      "name": "Parting Wings With Extension",
+      "attack": "front two-hand push"
+   },
+   {
+      "id": "rc",
+      "extension": false,
+      "name": "Raining Claw",
+      "attack": "front uppercut right punch"
+   },
+   {
+      "id": "rcwe",
+      "extension": false,
+      "name": "Reversing Circles",
+      "attack": "left roundhouse kick followed by left punch"
+   },
+   {
+      "id": "rcwe-1",
+      "extension": true,
+      "name": "Raining Claw With Extension",
+      "attack": "front uppercut right punch"
+   },
+   {
+      "id": "rd",
+      "extension": false,
+      "name": "Rotating Destruction",
+      "attack": "right front snap kick and left spinning back kick combination"
+   },
+   {
+      "id": "rd-1",
+      "extension": false,
+      "name": "Repeated Devastation",
+      "attack": "full nelson"
+   },
+   {
+      "id": "rdwe",
+      "extension": true,
+      "name": "Repeated Devastation With Extension",
+      "attack": "full nelson"
+   },
+   {
+      "id": "rdwe-1",
+      "extension": true,
+      "name": "Rotating Destruction With Extension",
+      "attack": "right front snap kick and left spinning back kick combination"
+   },
+   {
+      "id": "rl",
+      "extension": false,
+      "name": "Raining Lance",
+      "attack": "front overhead step through knife attack"
+   },
+   {
+      "id": "rlwe",
+      "extension": true,
+      "name": "Raining Lance With Extension",
+      "attack": "front overhead step through knife attack"
+   },
+   {
+      "id": "rm",
+      "extension": false,
+      "name": "Raking Mace",
+      "attack": "front two-hand lapel grab - pull in"
+   },
+   {
+      "id": "rm-1",
+      "extension": false,
+      "name": "Reversing Mace",
+      "attack": "front straight left punch"
+   },
+   {
+      "id": "rm-2",
+      "extension": false,
+      "name": "Repeating Mace",
+      "attack": "front left hand cross push"
+   },
+   {
+      "id": "rmwe",
+      "extension": true,
+      "name": "Reversing Mace With Extension",
+      "attack": "front straight left punch"
+   },
+   {
+      "id": "rmwe-1",
+      "extension": true,
+      "name": "Repeating Mace With Extension",
+      "attack": "front left hand push"
+   },
+   {
+      "id": "rmwe-2",
+      "extension": true,
+      "name": "Raking Mace With Extension",
+      "attack": "front two-hand lapel grab - pull in"
+   },
+   {
+      "id": "rp",
+      "extension": false,
+      "name": "Retreating Pendulum",
+      "attack": "front right rear kick"
+   },
+   {
+      "id": "rpwe",
+      "extension": true,
+      "name": "Retreating Pendulum With Extension",
+      "attack": "front right rear kick"
+   },
+   {
+      "id": "rs",
+      "extension": false,
+      "name": "Returning The Storm",
+      "attack": "roundhouse and backhand club attack"
+   },
+   {
+      "id": "rswe",
+      "extension": true,
+      "name": "Returning The Storm With Extension",
+      "attack": "roundhouse and backhand club attack"
+   },
+   {
+      "id": "rtb",
+      "extension": false,
+      "name": "Reprimanding The Bears",
+      "attack": "front right punch and rear bear hug - arms pinned"
+   },
+   {
+      "id": "rtbwe",
+      "extension": true,
+      "name": "Reprimanding The Bears With Extension",
+      "attack": "front right punch and rear bear hug - arms pinned"
+   },
+   {
+      "id": "s",
+      "extension": false,
+      "name": "Sleeper",
+      "attack": "front straight step through right punch"
+   },
+   {
+      "id": "sah",
+      "extension": false,
+      "name": "Sword And Hammer",
+      "attack": "right flank- left hand shoulder grab"
+   },
+   {
+      "id": "sam",
+      "extension": false,
+      "name": "Shield And Mace",
+      "attack": "front straight step through right punch"
+   },
+   {
+      "id": "samwe",
+      "extension": true,
+      "name": "Shield And Mace With Extension",
+      "attack": "front straight step through right punch"
+   },
+   {
+      "id": "sas",
+      "extension": false,
+      "name": "Shield And Sword",
+      "attack": "front straight left punch"
+   },
+   {
+      "id": "saswe",
+      "extension": true,
+      "name": "Shield And Sword With Extension",
+      "attack": "front straight left punch"
+   },
+   {
+      "id": "sb",
+      "extension": false,
+      "name": "Spreading Branch",
+      "attack": "rear bear hug, arms pinned"
+   },
+   {
+      "id": "sh",
+      "extension": false,
+      "name": "Scraping Hoof",
+      "attack": "full nelson"
+   },
+   {
+      "id": "sh-1",
+      "extension": false,
+      "name": "Shielding Hammer",
+      "attack": "front hooking left punch"
+   },
+   {
+      "id": "shwe",
+      "extension": true,
+      "name": "Scraping Hoof With Extension",
+      "attack": "full nelson"
+   },
+   {
+      "id": "shwe-1",
+      "extension": true,
+      "name": "Shielding Hammer With Extension",
+      "attack": "front hooking left punch"
+   },
+   {
+      "id": "sod",
+      "extension": false,
+      "name": "Sword Of Destruction",
+      "attack": "front- left straight or round house punch"
+   },
+   {
+      "id": "sow",
+      "extension": false,
+      "name": "Snakes Of Wisdom",
+      "attack": "left and right shoulder grab by two men at sides"
+   },
+   {
+      "id": "sowwe",
+      "extension": true,
+      "name": "Snakes Of Wisdom With Extension",
+      "attack": "left and right shoulder grab by two men at sides"
+   },
+   {
+      "id": "sp",
+      "extension": false,
+      "name": "Swinging Pendulum",
+      "attack": "front roundhouse right kick"
+   },
+   {
+      "id": "spwe",
+      "extension": true,
+      "name": "Swinging Pendulum with Extension",
+      "attack": "front roundhouse right kick"
+   },
+   {
+      "id": "spwe-1",
+      "extension": true,
+      "name": "Swinging Pendulum With Extension",
+      "attack": "front roundhouse right kick"
+   },
+   {
+      "id": "ss",
+      "extension": false,
+      "name": "Squatting Sacrifice",
+      "attack": "read bear hug - arms free"
+   },
+   {
+      "id": "ssh",
+      "extension": false,
+      "name": "Striking Serpent's Head",
+      "attack": "front bear hug-arms free"
+   },
+   {
+      "id": "sshwe",
+      "extension": true,
+      "name": "Striking Serpent's Head With Extension",
+      "attack": "front bear hug-arms free"
+   },
+   {
+      "id": "sswe",
+      "extension": true,
+      "name": "Squatting Sacrifice With Extension",
+      "attack": "read bear hug - arms free"
+   },
+   {
+      "id": "st",
+      "extension": false,
+      "name": "Snaking Talon",
+      "attack": "front two-hand push"
+   },
+   {
+      "id": "st-1",
+      "extension": false,
+      "name": "Spiraling Twig",
+      "attack": "rear bear hug - arms free"
+   },
+   {
+      "id": "st-2",
+      "extension": false,
+      "name": "Snapping Twig",
+      "attack": "front left hand chest push"
+   },
+   {
+      "id": "stp",
+      "extension": false,
+      "name": "Squeezing The Peach",
+      "attack": "rear bear hug - arms pinned"
+   },
+   {
+      "id": "stpwe",
+      "extension": true,
+      "name": "Squeezing The Peach With Extension",
+      "attack": "rear bear hug - arms pinned"
+   },
+   {
+      "id": "sts",
+      "extension": false,
+      "name": "Securing The Storm",
+      "attack": "front right roundhouse club"
+   },
+   {
+      "id": "stswe",
+      "extension": true,
+      "name": "Securing The Storm With Extension",
+      "attack": "front right roundhouse club"
+   },
+   {
+      "id": "stwe",
+      "extension": true,
+      "name": "Snapping Twig With Extension",
+      "attack": "front left hand chest push"
+   },
+   {
+      "id": "stwe-1",
+      "extension": true,
+      "name": "Snapping Twigs With Extension",
+      "attack": "front left hand chest push"
+   },
+   {
+      "id": "stwe-2",
+      "extension": true,
+      "name": "Spiraling Twig With Extension",
+      "attack": "rear bear hug - arms free"
+   },
+   {
+      "id": "stwe-3",
+      "extension": true,
+      "name": "Snaking Talon With Extension",
+      "attack": "front two-hand push"
+   },
+   {
+      "id": "swe",
+      "extension": true,
+      "name": "Sleeper With Extension",
+      "attack": "front straight step through right punch"
+   },
+   {
+      "id": "ta",
+      "extension": false,
+      "name": "Tripping Arrow",
+      "attack": "front bear hug - arms free"
+   },
+   {
+      "id": "tawe",
+      "extension": true,
+      "name": "Tripping Arrow With Extension",
+      "attack": "front bear hug - arms free"
+   },
+   {
+      "id": "tbatr",
+      "extension": false,
+      "name": "The Bear And The Ram",
+      "attack": "front right step through punch and rear bear hug - arms free"
+   },
+   {
+      "id": "tbatrwe",
+      "extension": true,
+      "name": "The Bear And The Ram With Extension",
+      "attack": "front right step through punch and rear bear hug - arms free"
+   },
+   {
+      "id": "tbb",
+      "extension": false,
+      "name": "The Back Breaker",
+      "attack": "flank step through right punch"
+   },
+   {
+      "id": "tbbwe",
+      "extension": true,
+      "name": "The Back Breaker With Extension",
+      "attack": "flank step through right punch"
+   },
+   {
+      "id": "tgod",
+      "extension": false,
+      "name": "Grasp Of Death",
+      "attack": "left flank right arm headlock"
+   },
+   {
+      "id": "th",
+      "extension": false,
+      "name": "Thundering Hammers",
+      "attack": "front straight right punch"
+   },
+   {
+      "id": "thwe",
+      "extension": true,
+      "name": "Thundering Hammers",
+      "attack": "front straight right punch"
+   },
+   {
+      "id": "thwe",
+      "extension": false,
+      "name": "Twirling Hammers",
+      "attack": "front step through left punch"
+   },
+   {
+      "id": "thwe-1",
+      "extension": true,
+      "name": "Thundering Hammer With Extension",
+      "attack": "front straight right punch"
+   },
+   {
+      "id": "tid",
+      "extension": false,
+      "name": "Thrust Into Darkness",
+      "attack": "right punch directly from the rear"
+   },
+   {
+      "id": "tidwe",
+      "extension": true,
+      "name": "Thrust Into Darkness With Extension",
+      "attack": "right punch directly from the rear"
+   },
+   {
+      "id": "tk",
+      "extension": false,
+      "name": "Twin Kimono",
+      "attack": "front two-hand lapel grab - push out"
+   },
+   {
+      "id": "tkwe",
+      "extension": true,
+      "name": "Twin Kimono With Extension",
+      "attack": "front two-hand lapel grab - push out"
+   },
+   {
+      "id": "tl",
+      "extension": false,
+      "name": "Thrusting Lance",
+      "attack": "front knife thrust"
+   },
+   {
+      "id": "tlwe",
+      "extension": true,
+      "name": "Thrusting Lance With Extension",
+      "attack": "front knife thrust"
+   },
+   {
+      "id": "tof",
+      "extension": false,
+      "name": "Twist Of Fate",
+      "attack": "front two-hand push"
+   },
+   {
+      "id": "tofwe",
+      "extension": true,
+      "name": "Twist Of Fate With Extension",
+      "attack": "front two-hand push"
+   },
+   {
+      "id": "tp",
+      "extension": false,
+      "name": "Thrusting Prongs",
+      "attack": "front bear hug-arms pinned"
+   },
+   {
+      "id": "tpwe",
+      "extension": true,
+      "name": "Thrusting Prongs With Extension",
+      "attack": "front bear hug-arms pinned"
+   },
+   {
+      "id": "trate",
+      "extension": false,
+      "name": "The Ram And The Eagle",
+      "attack": "front right punch and left rear collar grab"
+   },
+   {
+      "id": "tratewe",
+      "extension": true,
+      "name": "The Ram And The Eagle With Extension",
+      "attack": "front right punch and left rear collar grab"
+   },
+   {
+      "id": "trwe",
+      "extension": false,
+      "name": "Twisted Rod",
+      "attack": "right front pistol"
+   },
+   {
+      "id": "ts",
+      "extension": false,
+      "name": "Thrusting Salute",
+      "attack": "front straight right kick"
+   },
+   {
+      "id": "ts-1",
+      "extension": false,
+      "name": "Triggered Salute",
+      "attack": "front right hand direct push"
+   },
+   {
+      "id": "ts-2",
+      "extension": false,
+      "name": "Twirling Sacrifice",
+      "attack": "full nelson"
+   },
+   {
+      "id": "tswe",
+      "extension": true,
+      "name": "Triggered Salute With Extension",
+      "attack": "front right hand direct push"
+   },
+   {
+      "id": "tswe-1",
+      "extension": true,
+      "name": "Thrusting Salute With Extension",
+      "attack": "front straight right kick"
+   },
+   {
+      "id": "tswe-2",
+      "extension": true,
+      "name": "Twirling Sacrifice With Extension",
+      "attack": "full nelson"
+   },
+   {
+      "id": "tt",
+      "extension": false,
+      "name": "Twisted Twig",
+      "attack": "front wrist lock"
+   },
+   {
+      "id": "ttm",
+      "extension": false,
+      "name": "Taming The Mace",
+      "attack": "front step through right punch"
+   },
+   {
+      "id": "ttmwe",
+      "extension": true,
+      "name": "Taming The Mace With Extension",
+      "attack": "front step through right punch"
+   },
+   {
+      "id": "ttwe",
+      "extension": true,
+      "name": "Twisted Twig With Extension",
+      "attack": "front wrist lock"
+   },
+   {
+      "id": "tw",
+      "extension": false,
+      "name": "Thrusting Wedge",
+      "attack": "front two-hand high push"
+   },
+   {
+      "id": "tw-1",
+      "extension": false,
+      "name": "Twirling Wings",
+      "attack": "rear stiff left hand lapel grab"
+   },
+   {
+      "id": "twwe",
+      "extension": true,
+      "name": "Twirling Wings With Extension",
+      "attack": "rear stiff left hand lapel grab"
+   },
+   {
+      "id": "twwe-1",
+      "extension": true,
+      "name": "Thrusting Wedge With Extension",
+      "attack": "front two-hand high push"
+   },
+   {
+      "id": "uc",
+      "extension": false,
+      "name": "Unfurling Crane",
+      "attack": "front left and right punch with opponent's right leg forward"
+   },
+   {
+      "id": "ucwe",
+      "extension": true,
+      "name": "Unfurling Crane With Extension",
+      "attack": "front left and right punch with opponent's right leg forward"
+   },
+   {
+      "id": "upwe",
+      "extension": false,
+      "name": "Unwinding Pendulum",
+      "attack": "right front kick followed by right punch"
+   },
+   {
+      "id": "utd",
+      "extension": false,
+      "name": "Unfolding The Dark",
+      "attack": "left step through punch from right rear flank"
+   },
+   {
+      "id": "utdwe",
+      "extension": true,
+      "name": "Unfolding The Dark With Extension",
+      "attack": "left step through punch from right rear flank"
+   },
+   {
+      "id": "wos",
+      "extension": false,
+      "name": "Wings Of Silk",
+      "attack": "rear two-arm lock"
+   },
+   {
+      "id": "woswe",
+      "extension": true,
+      "name": "Wings Of Silk With Extension",
+      "attack": "rear two-arm lock"
+   }
+]

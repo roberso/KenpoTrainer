@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+    <link rel="stylesheet" href="lib/jquery.mobile-1.4.5.min.css">
+    <script src="lib/jquery-2.2.4.min.js"></script>
+    <script src="lib/jquery.mobile-1.4.5.min.js"></script>
+    <title>KenpoTrainer</title>
+    <script src="js/util.js"></script>
+    <script src="js/printHandler.js"></script>
+    <script src="js/mainHandler.js"></script>
+    <script src="js/licenseHandler.js"></script>
+    <script src="js/settingsHandler.js"></script>
+    <script src="js/supportHandler.js"></script>
+    <script src="js/aboutHandler.js"></script>
+    <script src="js/basicsHandler.js"></script>
+    <script src="js/basicsDetailsHandler.js"></script>
+    <script src="js/freestyleHandler.js"></script>
+    <script src="js/freestyleDetailsHandler.js"></script>
+    <script src="js/techHandler.js"></script>
+    <script src="js/techDetailsHandler.js"></script>
+    <script src="js/formsHandler.js"></script>
+    <script src="js/formsDetailsHandler.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/messages.js"></script>
+</head>
+
+<body>
+    <div data-role="page" id="home">
+        <div data-position="fixed" data-role="header" data-theme="b">
+            <h3 id="mainHeaderID">Kenpo Trainer</h3>
+            <a data-icon="bars" data-iconpos="notext" href="#nav-panel">Menu</a>
+        </div>
+        <div data-role="content" style="padding: 15px">
+            <!--application UI goes here-->
+            <!-- <a href="#" data-role="button" id="button" onclick="go()">Button</a> -->
+            <ul data-inset="true" data-role="listview" id="listview">
+                <li>
+                    <a href="#basics">Basics</a>
+                </li>
+                <li>
+                    <a href="#techniques">Self Defense</a>
+                </li>
+                <li>
+                    <a href="#freestyle">Freestyle</a>
+                </li>
+                <li>
+                    <a href="#forms">Sets and Forms</a>
+                </li>
+            </ul>
+            <p id="creed" style="font-style: italic">I
+                come to you with only Karate; "empty hands." I Have no
+                weapons, but should I be forced to defend myself, my principles or
+                my honor. Should it be a matter of life or death, right or wrong,
+                then here are my weapons, Karate; "empty hands."</p>
+            <p>Mr. Edmund K. Parker</p>
+        </div>
+        <div data-display="push" data-role="panel" data-theme="b" id="nav-panel">
+            <ul data-role="listview">
+                <!-- <li><a href="#settings" id="settingsMenu">Settings</a></li>  -->
+                <li>
+                    <a href="#license">View
+                        License</a>
+                </li>
+                <li>
+                    <a href="#support">Get
+                        Support</a>
+                </li>
+                <li>
+                    <a href="#about">About</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div data-role="page" id="support">
+        <div data-position="fixed" data-role="header" data-theme="b">
+            <h3>Support</h3>
+            <a data-icon="back" data-role="button" href="#home">Back</a>
+        </div>
+        <div data-role="content" style="padding: 15px">
+            <p>This tool is provided on an "as-is" basis. I will try to
+                update when problems are found. I have a day job and a family, so do
+                not always expect a fast turn around on problems or questions. I
+                will do my best, please be patient.  If you would like to collaborate 
+                or have an idea to improve, reach out to me as well.</p>
+            <p id="supportEmailID"></p>
+            <p>Please include detailed information on what issues you are
+                having with the app or what questions you have.</p>
+        </div>
+    </div>
+    <div data-role="page" id="license">
+        <div data-position="fixed" data-role="header" data-theme="b">
+            <h3>License</h3>
+        </div>
+        <div data-role="content" style="padding: 15px">
+            <p id="licenseID" style="font-weight: bold; font-style: italic">Kenpo
+                Trainer vx.x</p>
+            <p>Material contained in this tool is compiled from information
+                freely available on the internet and personal knowledge from years of study in Kenpo. </p>
+            <p>The creator of this app takes not responsibility or liability
+                for its use or any injury or damage that may incur while using the
+                app or accuracy of the content found in the app. Please use responsibly and at your own risk.</p>
+            <p>This tool is to be used as a supplement to receiving real
+                lessons from a trained Kenpo instructor. This app is focused on
+                providing information and drills to help retain and expand your Kenpo
+                knowledge. It is not a replacement for a knowledgable instructor.</p>
+            <p>
+                <i>Copyright 2015, 2019 Kenn Roberson</i>
+            </p>
+        </div>
+        <div data-position="fixed" data-role="footer" data-theme="b">
+            <a data-icon="check" data-role="button" href="#" id="licenseButton" style="width: 100%; text-align: center">I
+                have read and
+                accept the license</a>
+        </div>
+    </div>
+    <div data-role="page" id="techniques">
+        <div data-position="fixed" data-role="header" data-theme="b">
+            <h3>Self Defense</h3>
+            <a data-icon="back" data-role="button" data-transition="fade" href="#home">Back</a>
+        </div>
+        <div data-role="content" style="padding: 15px">
+            <select id="techGroupingID" name="techGrouping">
+            </select> <select id="techBeltsID" name="techBelts">
+            </select> <label for="slider">Seconds Between Techniques:</label><input data-highlight="true" id="techTimerID"
+                max="30" min="3" name="techTimer" type="range" value="5"> <label for="slider">Number
+                of times to drill:</label><input data-highlight="true" id="techRepeatID" max="100" min="1" name="techRepeat"
+                type="range" value="3">
+            <select id="techOrderID" name="techOrder">
+                <option value="tdStandard">Standard Order</option>
+                <option value="tdReverse">Reverse Order</option>
+                <option value="tdRandom">Random Order</option>
+            </select><label for="flip">Speak Technique Attacks</label><select data-role="slider" id="tdSpeakAttack"
+                name="flip">
+                <option value="off">Off</option>
+                <option value="on">On</option>
+            </select>
+        </div>
+        <div data-position="fixed" data-role="footer" data-theme="b">
+            <a data-icon="star" data-role="button" href="#techDetails" style="width: 100%; text-align: center">Begin
+                Training</a>
+        </div>
+    </div>
+    <div data-role="page" id="techDetails">
+        <div data-position="fixed" data-role="header" data-theme="b">
+            <a data-icon="back" data-role="button" href="#techniques">Back</a>
+            <h3>Technique</h3>
+            <!-- 
+        <a href="#" data-role="button" data-icon="arrow-r"
+            onclick="mainHandler.techDetailsHandler.stopAndNext()">Next</a>
+             -->
+        </div>
+        <div data-role="content" style="padding: 15px">
+            <h3 id="tdBeltID"></h3>
+            <h3 id="tdTechID"></h3>
+            <h3 id="tdCountID"></h3>
+            <label>Steps</label>
+            <div data-role="collapsible-set" id="tdStepsID"></div>
+        </div>
+        <div data-position="fixed" data-role="footer" data-theme="b">
+            <a data-iconpos="top" data-role="button" href="#" id="tdPauseID" style="width: 100%; text-align: center">Pause</a>
+        </div>
+    </div>
+    <div data-role="page" id="freestyle">
+        <div data-position="fixed" data-role="header" data-theme="b">
+            <h3>Freestyle</h3>
+            <a data-icon="back" data-role="button" data-transition="fade" href="#home">Back</a>
+        </div>
+        <div data-role="content" style="padding: 15px">
+            <select id="fsBeltsID" name="fsBelts">
+                <option value="yellow">Yellow Belt</option>
+                <option value="orange">Orange Belt</option>
+            </select> <label for="slider">Seconds Between Freestyle:</label><input data-highlight="true" id="fsTimerID"
+                max="30" min="2" name="fsTimer" type="range" value="5"> <label for="slider">Number
+                of times to drill:</label><input data-highlight="true" id="fsRepeatID" max="100" min="1" name="fsRepeat"
+                type="range" value="3">
+        </div>
+        <div data-position="fixed" data-role="footer" data-theme="b">
+            <a data-icon="star" data-role="button" href="#freestyleDetails" style="width: 100%; text-align: center">Begin
+                Training</a>
+        </div>
+    </div>
+    <div data-role="page" id="freestyleDetails">
+        <div data-position="fixed" data-role="header">
+            <a data-icon="back" data-role="button" href="#freestyle">Back</a>
+            <h3>Freestyle</h3>
+            <!-- 
+                    <a href="#" data-role="button" data-icon="arrow-r"
+            onclick="mainHandler.freestyleDetailsHandler.stopAndNext()">Next</a>
+             -->
+        </div>
+        <div data-role="content" style="padding: 15px">
+            <h3 id="fsBeltID"></h3>
+            <h3 id="fsTechID"></h3>
+            <h3 id="fsCountID"></h3>
+            <label>Steps</label>
+            <div data-role="collapsible-set" id="fsStepsID"></div>
+        </div>
+        <div data-position="fixed" data-role="footer" data-theme="b">
+            <a data-iconpos="top" data-role="button" href="#" id="fsPauseID" style="width: 100%; text-align: center">Pause</a>
+        </div>
+    </div>
+    <div data-role="page" id="basics">
+        <div data-position="fixed" data-role="header" data-theme="b">
+            <h3>Basics</h3>
+            <a data-icon="back" data-role="button" data-transition="fade" href="#home">Back</a>
+        </div>
+        <div data-role="content" style="padding: 15px">
+            <select id="bsBeltsID" name="bsBelts">
+                <option value="kick">Kicks</option>
+                <option value="stance">Stances</option>
+            </select> <label for="slider">Seconds Between Basics:</label><input data-highlight="true" id="bsTimerID"
+                max="10" min="0" name="bsTimer" type="range" value="1"> <label for="slider">Number
+                of times to drill:</label><input data-highlight="true" id="bsRepeatID" max="100" min="1" name="bsRepeat"
+                type="range" value="20">
+        </div>
+        <div data-position="fixed" data-role="footer" data-theme="b">
+            <a data-icon="star" data-role="button" href="#basicsDetails" style="width: 100%; text-align: center">Begin
+                Training</a>
+        </div>
+    </div>
+    <div data-role="page" id="basicsDetails">
+        <div data-position="fixed" data-role="header" data-theme="b">
+            <a data-icon="back" data-role="button" href="#basics">Back</a>
+            <h3>Basics</h3>
+            <!-- 
+        <a href="#" data-role="button" data-icon="arrow-r"
+            onclick="mainHandler.basicsDetailsHandler.stopAndNext()">Next</a>
+             -->
+        </div>
+        <div data-role="content" style="padding: 15px">
+            <h3 id="bsBeltID"></h3>
+            <h3 id="bsTechID"></h3>
+            <h3 id="bsCountID"></h3>
+            <label>Details</label>
+            <p id="bsStepsID"></p>
+        </div>
+        <div data-position="fixed" data-role="footer" data-theme="b">
+            <a data-iconpos="top" data-role="button" href="#" id="bsPauseID" style="width: 100%; text-align: center">Pause</a>
+        </div>
+    </div>
+    <div data-role="page" id="settings">
+        <div data-position="fixed" data-role="header" data-theme="b">
+            <a data-icon="back" data-role="button" href="#home">Back</a>
+            <h3>Settings</h3>
+        </div>
+        <div data-role="content" style="padding: 15px"></div>
+    </div>
+    <div data-role="page" id="forms">
+        <div data-position="fixed" data-role="header" data-theme="b">
+            <h3>Sets and Forms</h3>
+            <a data-icon="back" data-role="button" data-transition="fade" href="#home">Back</a>
+        </div>
+        <div data-role="content" style="padding: 15px">
+            <select id="fmListID" name="fmList">
+            </select> <label for="fmTimer">Seconds Between Steps:</label><input data-highlight="true" id="fmTimerID"
+                max="30" min="1" name="fmTimer" type="range" value="3"> <label for="fmRepeat">Number
+                of times to drill:</label><input data-highlight="true" id="fmRepeatID" max="100" min="1" name="fmRepeat"
+                type="range" value="3">
+            <label for="fmFlip">Speak Step Names (if available)</label><select data-role="slider" id="fmSpeakNamesID"
+                name="fmFlip">
+                <option value="off">Off</option>
+                <option value="on">On</option>
+            </select>
+        </div>
+        <div data-position="fixed" data-role="footer" data-theme="b">
+            <a data-icon="star" data-role="button" href="#" id="formsHandlerBegin" style="width: 100%; text-align: center">Begin
+                Training</a>
+        </div>
+    </div>
+    <div data-role="page" id="formsDetails">
+        <div data-position="fixed" data-role="header" data-theme="b">
+            <a data-icon="back" data-role="button" href="#forms">Back</a>
+            <h3>Sets and Forms</h3>
+            <!-- 
+        <a href="#" data-role="button" data-icon="arrow-r"
+            onclick="mainHandler.formsDetailsHandler.stopAndNext()">Next</a>
+             -->
+        </div>
+        <div data-role="content" style="padding: 15px">
+            <h3 id="fmFormID"></h3>
+            <h3 id="fmCountID"></h3>
+            <h3 id="fmStepID"></h3>
+            <div id="fmDetailsID"></div>
+        </div>
+        <div data-position="fixed" data-role="footer" data-theme="b">
+            <a data-iconpos="top" data-role="button" href="#" id="fmPauseID" style="width: 100%; text-align: center">Pause</a>
+        </div>
+    </div>
+    <div data-role="page" id="about">
+        <div data-position="fixed" data-role="header" data-theme="b">
+            <h3>About</h3>
+            <a data-icon="back" data-rel="back" data-role="button" data-transition="fade" href="#home">Back</a>
+        </div>
+        <div data-role="content" data-theme="a" style="padding: 15px">
+            <p style="font-weight: bold; font-style: italic">Kenpo Trainer
+                1.0</p>
+            <p>This is a tool based on Ed Parker's American Kenpo Karate
+                developed by Kenn Roberson, a Kenpo black belt. Material contained
+                in this tool is compiled from the internet, and
+                personal knowledge from years of study in Kenpo. </p>
+            <p>The programming of this app was
+                entirely done by the author using originally IBM's Mobile First tool and JQuery Mobile
+                1.4.4 back in 2015. This version version was ported over to Apache Cordova and using 
+                JQuery Mobile 1.4.5 to stick to more open source based development environent.</p>
+            <p>The following are good sites for more information on Kenpo</p>
+            <ul>
+                <li>
+                    <a href="#" id='storm'>Texas Storm Kenpo</a>
+                </li>
+                <li>
+                    <a href="#" id='kenponet'>The KenpoNet</a>
+                </li>
+                <li>
+                    <a href="#" id='pcwood'>PCWood's Kenpo Site</a>
+                </li>
+                <li>
+                    <a href="#" id='brian'>Brian's Parker Kenpo Page</a>
+                </li>
+                <li>
+                    <a href="#" id='rick'>Rick Fowler's Kenpo</a>
+                </li>
+            </ul>
+            <p>I hope you enjoy this app.</p>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="cordova.js"></script>
+    <script src="js/eventActions.js"></script>
+
+</body>
+
+</html>

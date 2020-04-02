@@ -1,0 +1,378 @@
+[{
+	"id": "stances",
+	"description": "Stances",
+	"category": "stance",
+	"from" : "attention stance",
+	"tech": [{
+		"name": "Horse Stance",
+		"description": "Feet outside shoulder width, knees bent, hands at side bent, fists in at waist, knees out over ankles."
+	},
+	{
+		"name": "Meditating Stance",
+		"description": "Horse stance, arms chest level, elbows bent, left hand over right fist."
+	},
+	{
+		"name": "Neutral Bow",
+		"description": "Natural stance, drop leg back, feet at 45 degrees, front toe parallel to rear heel, front arm out at 90 degrees in front of face, rear arm in close covering midsection."
+	},
+	{
+		"name": "Forward Bow",
+		"description": "From a Neutral Bow, turn rear foot to face front, rear foot flat, rear leg straight, front knee bent. Should not be ale to see front toes."
+	},
+	{
+		"name": "Reverse Bow",
+		"description": "Forward Bow, turn head to look backwards."
+	},
+	{
+		"name": "90 Degree Cat",
+		"description": "Start with the heel of one foot up against the instep of your other foot (your feet are at a 90 degree angle to each other). Slide the heel foot forward so the heel is where the toes were. Move up onto the ball of that foot."
+	},
+	{
+		"name": "45 degree Cat",
+		"description": "start with your heels together, toes apart at a 45 degree angle. Move the heel of one foot forward so the heel is where the toes of that foot were. Move up onto the ball of that foot."
+	},
+	{
+		"name": "Front Twist",
+		"description": "From a Neutral Bow, move your rear leg forward in front of your front leg and towards the corner so that the inside of your foot is facing the corner. Up on the ball of your other foot, keep knees bent."
+	},
+	{
+		"name": "Rear Twist",
+		"description": "From a Neutral Bow, move your rear leg forward behind of your front leg and towards the corner so that the inside of your foot is facing the corner. Up on the ball of your other foot, keep knees bent."
+	},
+	{
+		"name": "Rotating Twist",
+		"description": "From a Neutral Bow, turn your forward foot outward (rotating on the ball of the foot) so that your toes point to the side. At the same time, bend your rear knee and sink your body so that your rear knee is a couple inches off the ground. Your front foot is flat on the floor and you are on the ball of your rear foot."
+	},
+	{
+		"name": "High Wide Kneel",
+		"description": "From neutral Bow, bend rear knee and stay up on ball of rear foot, rear knee at 45 degrees, foot pointing outward."
+	},
+	{
+		"name": "Close Kneel",
+		"description": "From Forward Bow, bend rear knee and stay up on ball of rear foot, rear knee and foot facing forward."
+	}]
+},{
+	"id": "blocks and parries",
+	"description": "Blocks and Parries",
+	"category": "block",
+	"from" : "horse stance",
+	"tech": [{
+		"name": "Upward Block",
+		"description": "From face, push upward (like an uppercut punch) and rotate hand so palm is away from face raising arm above head, keeping elbow at 45 degrees."
+	},
+	{
+		"name": "Inward Vertical Block",
+		"description": "Arm at 90 degrees (bent at elbow) pulled in from outside body to inside body stop at eye, palm to face."
+	},
+	{
+		"name": "Inward Block",
+		"description": "Arm between 45 and 90 degrees moving at a 45 degree angle across and away from body. If block starts low (from hip) it's thrusting. If it starts high (from shoulder) it's hammering."
+	},
+	{
+		"name": "Outward Vertical Block",
+		"description": "Arm at 90 degrees (bent at elbow), pushed from inside body to outside stopping at shoulder, palm to face, thumb aligned with outside of shoulder."
+	},
+	{
+		"name": "Outward Extended Block",
+		"description": "Starts as outward vertical then arm bends to 45 degrees (bent at elbow) pushing from inside body to outside body stopping just outside shoulder (thumb aligned with outside of shoulder)."
+	},
+	{
+		"name": "Downward Block",
+		"description": "Arm downward to almost full extension, swinging out just past leg, keeping elbow slightly bent."
+	},
+	{
+		"name": "Rear Elbow",
+		"description": "Arm cocked and pulled back striking behind at waist with elbow."
+	},
+	{
+		"name": "Pushdown",
+		"description": "Arm pressed down and outward to almost full extension at solar plexus, hand flat, palm down."
+	},
+	{
+		"name": "Inside Downward (Palm Up)",
+		"description": "Fist cocked at ear, elbow bent, palm facing forward, swings down in a circular motion across midsection of body, stopping at the middle of the body. This is often used as a minor move prior to a downward block."
+	},
+	{
+		"name": "Inside Downward (Palm Down)",
+		"description": "Arm extended down at your side, elbow slightly bent. Fist (with palm down) swings in front of and across body, stopping at other side of body."
+	},
+	{
+		"name": "Universal Block",
+		"description": "From a neutral bow, lead arm at inward block position and back arm straight down covering centerline."
+	},
+	{
+		"name": "Inward Parry",
+		"description": "Hand open, palm in, starts from same side as parry hand, moves across and away from body at a 45 degree angle then straight back to opposite side ear. Forms right triangle with chest."
+	},
+	{
+		"name": "Outward Parry",
+		"description": "Hand open, palm in, starts from opposite of parry hand, moves across body at 45 degree angle then straight back to ear on the same side as parry hand. Forms right triangle with chest."
+	},
+	{
+		"name": "Outward Hooking Parry",
+		"description": "Hand open, palm in, starts from opposite of parry hand, moves across body at 45 degree angle then straight back to ear on the same side as parry hand with your palm up (like a waiter carrying a tray)."
+	},
+	{
+		"name": "Upward Parry",
+		"description": "Hand open, palm up, starts from same side as parry hand and moves up and away from body at a 45 degree angle (to the corner of the box) then down and back to opposite side ear. Forms a tilted right triangle with chest."
+	},
+	{
+		"name": "Downward Parry",
+		"description": "Hand open, palm in, starts from opposite of body from parry hand, up high and swings down at an angle to the outside of the leg on the same side as the parry hand."
+	},
+	{
+		"name": "Horizontal Inward Parry",
+		"description": "Deflecting"
+	},
+	{
+		"name": "Horizontal Outward Parry",
+		"description": "Deflecting"
+	},
+	{
+		"name": "Vertical Upward Parry",
+		"description": "Deflecting"
+	},
+	{
+		"name": "Vertical Downward Parry",
+		"description": "Deflecting"
+	}]
+},{
+	"id": "strikes",
+	"description": "Strikes",
+	"category": "strike",
+	"from" : "horse stance",
+	"tech": [{
+		"name": "Horizontal Thrust",
+		"description": "Punch straight out with fist, knuckles up. For snap version, bring hand back to waist."
+	},
+	{
+		"name": "Vertical Thrust",
+		"description": "Punch slightly upward, knuckles to outside of body. For snap version, bring hand back to waist."
+	},
+	{
+		"name": "Uppercut",
+		"description": "Beginning with hand at your side, punch upward and away from you, stopping at the height of your lower chest."
+	},
+	{
+		"name": "Hammerfist",
+		"description": "This strike is done in numerous directions and at numerous angles. In general, you are striking with the bottom of your fist (outside the little finger)."
+	},
+	{
+		"name": "Back Hammerfist",
+		"description": "Swing fist from in front of your body, past your side and behind you, striking at groin level with the bottom of your fist."
+	},
+	{
+		"name": "Inverted Hammerfist",
+		"description": "Swing fist (circular) in towards you,down and away from you, striking at groin level with the bottom of your fist."
+	},
+	{
+		"name": "Inward Hand Sword",
+		"description": "Sword hand striking on side of attackers neck, palm up, arm bent coming from outside my body"
+	},
+	{
+		"name": "Outward Hand Sword",
+		"description": "Sword hand striking on right of attackers neck, palm down arm bent coming from across my body."
+	},
+	{
+		"name": "Inward Elbow",
+		"description": "Pull fist into my chest, pushing elbow into attacker"
+	},
+	{
+		"name": "Upward Elbow",
+		"description": "Pull fist to my ear, pushing elbow upward to attacker"
+	},
+	{
+		"name": "Overhead Elbow",
+		"description": "Raise arm (open hand) around the back, over head and straight up then drive elbow down onto attacker while making fist with hand."
+	},
+	{
+		"name": "Obscure Upward Elbow",
+		"description": "Start with arm fully extended downward (i.e. arm hanging at side) then drive upward with elbow. This is almost always used to strike an attacker under the chin. This strike can be used to the front, side and back."
+	},
+	{
+		"name": "Rear Elbow",
+		"description": "Move arm straight out in front of body then back behind body. Bend arm at elbow as it moves back behind body."
+	},
+	{
+		"name": "Side Elbow",
+		"description": "Move arm across body and strike back to original side. Bend arm at elbow as it moves across. Upper arm should be lined up with back."
+	},
+	{
+		"name": "Whip",
+		"description": "Left arm 90 degrees in front of body, left elbow resting in right hand. Snap left hand loosely toward attacker striking with ring and little finger knuckles and side of hand."
+	},
+	{
+		"name": "Heel Palm",
+		"description": "Push arm out slightly across body striking attacker in the face and pushing across. This strike can be executed in multiple directions and to multiple angles, but we always strike with the lower part of our open hand with the finger tightly together."
+	},
+	{
+		"name": "Heel Palm Claw",
+		"description": "Essentially the same as a Heel Palm, but finger are bent (like a claw) and rake across the target. This strike is mainly used on the face."
+	},
+	{
+		"name": "Finger Poke",
+		"description": "Using first 2 fingers slightly bent. Fingers must line up or they get broken."
+	},
+	{
+		"name": "Ridge Hand",
+		"description": "Swing arm from outside body to inside body, hand flat and palm down, striking with thumb and forefinger."
+	},
+	{
+		"name": "Middle Knuckle",
+		"description": "Vertical fist position, extend middle knuckle slightly so it's the contact point."
+	},
+	{
+		"name": "Half Fist",
+		"description": "Horizontal fist position, unroll fist one knuckle's length."
+	},
+	{
+		"name": "Back Knuckle",
+		"description": "This strike is done in many directions and to many angles. Strike with the knuckles using the back of the hand. It's like a slap with a closed fist."
+	}]
+},{
+	"id": "kicks",
+	"description": "Kicks",
+	"category": "kick",
+	"from" : "fighting stance",
+	"tech": [{
+		"name": "Front Ball Kick",
+		"description": "Bring front foot back into cat (quick transition stance), knee up to chest, kick out striking with ball of foot, lower half of leg back (knee up) and down."
+	},
+	{
+		"name": "Rear Ball Kick",
+		"description": "Bring rear knee up to chest and, as we kick out striking with ball of foot, torque front foot and hips into the kick. Front foot turns from 45 degrees to facing direction of kick, then lower half of leg back (knee up) and down."
+	},
+	{
+		"name": "Side Kick",
+		"description": "Bring front leg up while pivoting on rear foot so we are sideways to attacker and snap foot into attacker kicking with heel of foot. Land back in original neutral bow."
+	},
+	{
+		"name": "Slide-Up Side Kick",
+		"description": "Bring rear leg up to front leg so feet are touching and do a side kick with front leg."
+	},
+	{
+		"name": "Step-Thru Side Kick",
+		"description": "Bring rear leg forward and up while pivoting on rear foot so we are sideways to attacker and thrust foot into attacker kicking with heel of foot. Land forward after kick."
+	},
+	{
+		"name": "Rear Crossover Side Kick",
+		"description": "Bring rear leg behind front leg then front leg up so we are sideways to attacker and thrust foot into attacker kicking with heel of foot. Land forward after kick."
+	},
+	{
+		"name": "Jump Side Kick",
+		"description": "Jumping with both legs, front leg does side kick in the air while rear leg folds under."
+	},
+	{
+		"name": "Front Roundhouse Kick",
+		"description": "Bring front leg up while pivoting on rear foot so we are sideways to attacker and snap foot into attacker kicking with top of foot. Land in original neutral bow. The 'jab' of kicks."
+	},
+	{
+		"name": "Rear Roundhouse Kick",
+		"description": "Bring rear leg up while pivoting on front foot so we are sideways to attacker and thrust foot into attacker kicking with top of foot. Land forward after kick. The 'cross' of kicks."
+	},
+	{
+		"name": "Inverted Roundhouse Kick",
+		"description": "Rear leg crosses behind front leg, front leg swings in, up and out striking with instep."
+	},
+	{
+		"name": "Fake Inverted Roundhouse Kick",
+		"description": "From Neutral Bow, start inverted roundhouse, stop before kicking and swing leg around to do a regular roundhouse."
+	},
+	{
+		"name": "Rear Kick",
+		"description": "From a Neutral Bow, hands up for balance and protection, look behind as you Cat your rear leg up to front leg. Kick behind you with heel of foot."
+	},
+	{
+		"name": "Spinning Back Kick",
+		"description": "From neutral bow, turn backwards and bring rear leg up to front leg in cat, look behind and thrust cat leg backwards, landing forward in opposite bow."
+	},
+	{
+		"name": "Chicken Kick",
+		"description": "Cat with front leg then do a front leg front ball snap kick, leaving knee in the air, then a quick jumping rear leg front ball snap kick. Move back to neutral bow after landing."
+	},
+	{
+		"name": "Side Chicken Kick",
+		"description": "Front leg side kick, keep knee high after kick then rear leg instep kick in same direction."
+	},
+	{
+		"name": "Back Chicken Kick",
+		"description": "Cat rear leg forward and do a back kick with cat leg. Before that leg lands, do a back kick with the other leg."
+	},
+	{
+		"name": "Skip-Knee",
+		"description": "From forward bow, grab attacker around neck, pull them in close and tight and drive knee into their midsection. Leg down and skip into opposite bow and repeat."
+	},
+	{
+		"name": "Spinning Crescent Kick",
+		"description": "From neutral bow, back leg comes up partially bent, twist body backwards and swing back leg around to strike with outside of foot."
+	},
+	{
+		"name": "Hook Kick",
+		"description": "Side kick then bend knee and pull heel back towards you into attacker."
+	},
+	{
+		"name": "Ax Kick",
+		"description": "Natural stance. Bring leg across body and up in the air back towards body and slap bottom of foot down on attackers opposite shoulder and land heel of foot on ground."
+	},
+	{
+		"name": "Front Scoop",
+		"description": "Front leg up, into attackers groin with instep and pull back towards you."
+	},
+	{
+		"name": "Rear Scoop",
+		"description": "Bend rear leg at knee, heel up quickly kicking up into attackers groin with heel and pull towards you."
+	},
+	{
+		"name": "Shovel Kick",
+		"description": "Done with attacker on the ground. Do a low Ball Kick that continues into a thrusting kick with the heel of the foot. This is to be done in one fluid motion."
+	}]
+},{
+	"id": "foot",
+	"description": "Foot Maneuvers",
+	"category": "foot",
+	"tech": [{
+		"name": "Step Drag",
+		"description": "Without changing stance. Left/right neutral bow. Step forward with front foot then drag rear foot up to neutral bow."
+	},
+	{
+		"name": "Drag Step",
+		"description": "Slide/drag rear foot forward almost to front foot then step forward with front foot."
+	},
+	{
+		"name": "Push Drag",
+		"description": "Push forward with rear foot. Front foot comes slightly off the ground to move forward and rear foot slides on the ground forward."
+	},
+	{
+		"name": "Step Thru",
+		"description": "Move rear foot forward to front of front foot ending in opposite neutral bow."
+	},
+	{
+		"name": "Cover Step",
+		"description": "From a Neutral Bow, move your front foot in front of and across the other foot and turn body so we end up in the opposite neutral bow facing the new direction."
+	},
+	{
+		"name": "Front Cross Over",
+		"description": "From a Neutral Bow, front foot steps in front of and past rear foot (but not in the same line) into a transitional Front Twist stance, then your rear foot moves out along the same path as the front foot into the same Neutral Bow"
+	},
+	{
+		"name": "Rear Cross Over",
+		"description": "From a Neutral Bow, front foot steps in behind of and past rear foot (but not in the same line) into a transitional Rear Twist stance, then your rear foot moves out along the same path as the front foot into the same Neutral Bow"
+	},
+	{
+		"name": "Cover Out",
+		"description": "Execute a front cross over then a step thru reverse."
+	},
+	{
+		"name": "Jump Change Switch",
+		"description": "Pick both legs up, moves front to back and back to front"
+	},
+	{
+		"name": "Front to Back Switch",
+		"description": "Front leg comes back to rear leg then rear leg moves to front."
+	},
+	{
+		"name": "Back to Front Switch",
+		"description": "Rear leg comes up to front leg then front leg moves to back."
+	}]
+}
+]

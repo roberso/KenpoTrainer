@@ -1,0 +1,40 @@
+{
+    "name": "com.gmail.roberson.kenn.kenpotrainercordova",
+    "displayName": "KenpoTrainer",
+    "version": "1.0.0",
+    "description": "A sample Apache Cordova application that responds to the deviceready event.",
+    "main": "index.js",
+    "scripts": {
+        "prepare": "cordova prepare",
+        "server": "cordova serve",
+        "build": "cordova build --buildFlag='-UseModernBuildSystem=0'",
+        "ios": "cordova run ios --buildFlag='-UseModernBuildSystem=0'",
+        "android": "cordova emulate android",
+        "browser": "cordova run browser"
+    },
+    "author": "Apache Cordova Team",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "cordova-android": "^7.1.4",
+        "cordova-browser": "^5.0.4",
+        "cordova-ios": "^4.5.5",
+        "cordova-plugin-dialogs": "^2.0.1",
+        "cordova-plugin-printer": "^0.7.3",
+        "cordova-plugin-splashscreen": "^5.0.2",
+        "cordova-plugin-texttospeech": "^0.1.1",
+        "cordova-plugin-whitelist": "^1.3.3"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-whitelist": {},
+            "cordova-plugin-texttospeech": {},
+            "cordova-plugin-dialogs": {},
+            "cordova-plugin-splashscreen": {}
+        },
+        "platforms": [
+            "ios",
+            "android",
+            "browser"
+        ]
+    }
+}

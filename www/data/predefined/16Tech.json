@@ -1,0 +1,70 @@
+{ "description" : "16 Technique System", "belts" :
+[
+	{ "id" : "yellow", "description" : "Yellow Belt", "tech" : [ 
+		"ds", "am", "sod", "dh", "ct-1", "tgod", "cts-3", 
+		"moa", "am-1", "sah", "id"
+		]
+	},
+	{ "id" : "orange", "description" : "Orange Belt", "tech" : [ 
+		"cf-1", "ts-1", "dod", "ts", "god-1",
+		"lh", "ets", "lk", "gs-1", "fs", "sh", 
+		"god", "rm-2", "sh-1", "ssh", "cw"
+		]
+	},
+	{ "id" : "purple", "description" : "Purple Belt", "tech" : 
+		[ 
+		"tw-1", "st-2", "lc", "bb", "ch",
+		"cl", "cts-2", "ct", "rm-1", "tp", "lw", 
+		"ow", "rc", "st-1", "tt", "os", "sb"
+		]
+	},
+	{ "id" : "blue", "description" : "Blue Belt", "tech" : 
+		[ 
+		"tk", "pw", "th", "sp", "stp",
+		"cw-1", "ots", "dm", "hw", "sas", 
+		"gir", "boc", "cr", "s", "cod-2", 
+		"ftf"
+		]
+	},
+	{ "id" : "green", "description" : "Green Belt", "tech" : 
+		[ 
+		"bh", "tw", "fw", "hp", "rd-1",
+		"dt", "dts", "ct-2", "st", "sam", 
+		"rp", "ta", "wos", "cs", "ew", 
+		"rm"
+		]
+	},
+	{ "id" : "brown3", "description" : "3rd Brown Belt", "tech" : 
+		[ 
+		"dc", "tof", "fm", "dfd", "god-2",
+		"bs", "rs", "gs", "ewd", "gc", 
+		"cod", "ss", "fc", "bts", "df-1", 
+		"cth", "gt", "br", "cd", "oc"
+		]
+	},
+	{ "id" : "brown2", "description" : "2nd Brown Belt", "tech" : 
+		[ 
+		"mt", "lfd", "cop", "rd", "bg",
+		"efd-1", "cts", "itr", "tbb", "dp", 
+		"ts-2", "ha", "sts", "ff", "ttm", 
+		"dcwe", "cod-1", "koc", "btbwe", "gw"
+		]
+	},
+	{ "id" : "brown1", "description" : "1st Brown Belt", "tech" : 
+		[ 
+		"fcwe", "tid", "cf", "dodwe", "fof",
+		"tbatr", "cts-1", "cwwe", "lod", "pf", 
+		"rcwe", "ctt", "gots", "rl", "df", 
+		"uc", "upwe", "ge", "pots", "gl"
+		]
+	},
+	{ "id" : "black1", "description" : "1st Black Belt", "tech" : 
+		[ 
+		"dkwe", "em", "motr", "trate", "eftswe", 
+		"tl", "ctrwe", "pottwe", "fd", "sow", 
+		"rtb", "ctswe", "el", "brwe", "thwe", 
+		"pl", "utd", "dtrwe", "efd", "trwe"
+		]
+	}
+]
+}

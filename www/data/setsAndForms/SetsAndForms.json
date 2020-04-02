@@ -1,0 +1,167 @@
+[{
+	"id": "ShortForm1",
+	"style": "simple",
+	"file": "ShortForm1.json",
+	"name": "Short Form 1",
+	"type": "form",
+	"order": 1
+},{
+	"id": "LongForm1",
+	"style": "simple",
+	"file": "LongForm1.json",
+	"name": "Long Form 1",
+	"type": "form",
+	"order": 2
+},{
+	"id": "ShortForm2",
+	"style": "simple",
+	"file": "ShortForm2.json",
+	"name": "Short Form 2",
+	"type": "form",
+	"order": 3
+},{
+	"id": "LongForm2",
+	"style": "simple",
+	"file": "LongForm2.json",
+	"name": "Long Form 2",
+	"type": "form",
+	"order": 4
+},{
+	"id": "ShortForm3",
+	"style": "complex",
+	"file": "ShortForm3.json",
+	"name": "Short Form 3",
+	"type": "form",
+	"suggestedSpeachTime": 3,
+	"order": 5
+},{
+	"id": "LongForm3",
+	"style": "complex",
+	"file": "LongForm3.json",
+	"name": "Long Form 3",
+	"type": "form",
+	"suggestedSpeachTime": 4,
+	"order": 6
+},{
+	"id": "Form4",
+	"style": "complex",
+	"file": "Form4.json",
+	"name": "Form 4",
+	"type": "form",
+	"suggestedSpeachTime": 4,
+	"order": 7
+},{
+	"id": "Form5",
+	"style": "complex",
+	"file": "Form5.json",
+	"name": "Form 5",
+	"type": "form",
+	"suggestedSpeachTime": 5,
+	"order": 8
+},{
+	"id": "Form6",
+	"style": "complex",
+	"file": "Form6.json",
+	"name": "Form 6",
+	"type": "form",
+	"suggestedSpeachTime": 5,
+	"order": 9
+},{
+	"id": "Form7",
+	"style": "complex",
+	"file": "Form7.json",
+	"name": "Form 7",
+	"type": "form",
+	"suggestedSpeachTime": 4,
+	"order": 10
+},{
+	"id": "StarBlock",
+	"style": "simple",
+	"file": "StarBlock.json",
+	"name": "Star Block",
+	"type": "set"
+},{
+	"id": "BlockingSet2",
+	"style": "complex",
+	"file": "BlockingSet2.json",
+	"name": "Blocking Set 2",
+	"type": "set",
+	"suggestedSpeachTime": 3
+},{
+	"id": "KickingSet1",
+	"style": "complex",
+	"file": "KickingSet1.json",
+	"name": "Kicking Set 1",
+	"type": "set",
+	"suggestedSpeachTime": 1
+},{
+	"id": "KickingSet2",
+	"style": "simple",
+	"file": "KickingSet2.json",
+	"name": "Kicking Set 2",
+	"type": "set"
+},{
+	"id": "CoordinationSet1",
+	"style": "complex",
+	"file": "CoordinationSet1.json",
+	"name": "Coordination Set 1",
+	"type": "set",
+	"suggestedSpeachTime": 1
+},{
+	"id": "CoordinationSet2",
+	"style": "complex",
+	"file": "CoordinationSet2.json",
+	"name": "Coordination Set 2",
+	"type": "set",
+	"suggestedSpeachTime": 1
+},{
+	"id": "StanceSet1",
+	"style": "simple",
+	"file": "StanceSet1.json",
+	"name": "Stance Set 1",
+	"type": "set"
+},{
+	"id": "StanceSet2",
+	"style": "simple",
+	"file": "StanceSet2.json",
+	"name": "Stance Set 2",
+	"type": "set"
+},{
+	"id": "StrikingSet1",
+	"style": "complex",
+	"file": "StrikingSet1.json",
+	"name": "Striking Set 1",
+	"type": "set",
+	"suggestedSpeachTime": 2
+},{
+	"id": "StrikingSet2",
+	"style": "simple",
+	"file": "StrikingSet2.json",
+	"name": "Striking Set 2",
+	"type": "set"
+},{
+	"id": "FingerSet1",
+	"style": "simple",
+	"file": "FingerSet1.json",
+	"name": "Finger Set 1",
+	"type": "set"
+},{
+	"id": "FingerSet2",
+	"style": "simple",
+	"file": "FingerSet2.json",
+	"name": "Finger Set 2",
+	"type": "set"
+},{
+	"id": "StaffSet",
+	"style": "complex",
+	"file": "StaffSet.json",
+	"name": "Staff Set",
+	"type": "set",
+	"suggestedSpeachTime": 4
+},{
+	"id": "Two-ManSet",
+	"style": "sideBySide",
+	"file": "Two-ManSet.json",
+	"name": "Two-Man Set",
+	"type": "set"
+}]
